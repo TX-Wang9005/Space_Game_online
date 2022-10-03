@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Fence (3)",
+    "texture": "6344e24d-b654-42bc-9c51-8e69675a1f6f",
+    "atlas": "",
+    "rect": [
+      0,
+      74,
+      107,
+      155
+    ],
+    "offset": [
+      -74.5,
+      -23.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

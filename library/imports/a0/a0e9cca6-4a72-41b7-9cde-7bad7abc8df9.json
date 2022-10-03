@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TX Props",
+    "texture": "3de69b6a-4534-4037-9d3d-2ef55ce37c2f",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      488,
+      507
+    ],
+    "offset": [
+      -9,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

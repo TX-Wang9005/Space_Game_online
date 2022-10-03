@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mutiplayerText",
+    "texture": "acefbbe4-364e-4b6b-addf-ce7e9566cf88",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      503,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      503,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

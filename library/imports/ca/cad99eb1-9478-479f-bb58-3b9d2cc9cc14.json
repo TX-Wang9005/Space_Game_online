@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "accept_hover",
+    "texture": "5fa0fbe1-7068-4fff-bd4d-fcbc7958203b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      132,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      132,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

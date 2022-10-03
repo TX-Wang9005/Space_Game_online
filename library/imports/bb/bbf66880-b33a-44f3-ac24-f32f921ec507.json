@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "我是大地主",
+    "texture": "6b1a760b-4e95-4f0e-9dba-3ac3cfefc6ef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      472,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      472,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "好鬼不抓人",
+    "texture": "f4af62e3-a342-4585-bbc0-c0936e038455",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      467,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      467,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

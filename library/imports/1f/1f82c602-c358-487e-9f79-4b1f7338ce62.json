@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Vent",
+    "texture": "c44f2509-c0de-489b-9268-a63deb4772d1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      119,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      119,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

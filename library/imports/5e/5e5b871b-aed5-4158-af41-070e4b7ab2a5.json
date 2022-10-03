@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "players green x2",
+    "texture": "d28fe17a-f342-4a87-af04-9b8acc793339",
+    "atlas": "",
+    "rect": [
+      8,
+      16,
+      496,
+      816
+    ],
+    "offset": [
+      0,
+      -8
+    ],
+    "originalSize": [
+      512,
+      832
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "choosing ghost..",
+    "texture": "6f3fc07b-3202-459c-aa3e-b5c6756b0309",
+    "atlas": "",
+    "rect": [
+      165,
+      98,
+      472,
+      72
+    ],
+    "offset": [
+      1,
+      -9
+    ],
+    "originalSize": [
+      800,
+      250
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

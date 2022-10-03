@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Walltop",
+    "texture": "11d6345a-e089-483a-876c-7fab4d60cf6f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      8
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      8
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

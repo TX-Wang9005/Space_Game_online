@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PUT A RATING!",
+    "texture": "e847cb5d-8eba-49a6-ad3c-03b841e6917a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      600,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      600,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

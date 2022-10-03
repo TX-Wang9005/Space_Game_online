@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Computer",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "42100e5b-a0cb-42c7-82bb-2edaddfa2100"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "55071620-a7be-497c-b628-d6a4c8cf65eb"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "647b75ff-224f-4c00-be37-7e7add54faa8"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "46ab9b1a-214b-4e5c-b7df-54c793686a15"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "42100e5b-a0cb-42c7-82bb-2edaddfa2100"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

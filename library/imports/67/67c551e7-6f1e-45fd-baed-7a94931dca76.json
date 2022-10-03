@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HorizontalLaserOff (2)",
+    "texture": "2cdafd19-2cfb-4fbc-aaed-f149d966291a",
+    "atlas": "",
+    "rect": [
+      229,
+      96,
+      27,
+      64
+    ],
+    "offset": [
+      114.5,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

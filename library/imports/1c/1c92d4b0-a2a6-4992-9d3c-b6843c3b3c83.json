@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LOGIN_hover",
+    "texture": "6931f763-147d-4564-8c80-0847d471f05d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      97,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      97,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ArrowTop",
+    "texture": "19000b92-5c5a-4b93-abc5-7ae2e32d7e7a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      20,
+      9
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      20,
+      9
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

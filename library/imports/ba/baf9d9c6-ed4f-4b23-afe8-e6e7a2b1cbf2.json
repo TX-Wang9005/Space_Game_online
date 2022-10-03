@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "npc x1",
+    "texture": "a47d9fc8-f96c-480f-b85b-059456ed3b01",
+    "atlas": "",
+    "rect": [
+      8,
+      5,
+      177,
+      91
+    ],
+    "offset": [
+      0.5,
+      -2.5
+    ],
+    "originalSize": [
+      192,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

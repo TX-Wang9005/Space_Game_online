@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "players grey x3",
+    "texture": "868492f9-0085-4266-99b1-7c1af39d5440",
+    "atlas": "",
+    "rect": [
+      12,
+      24,
+      744,
+      1224
+    ],
+    "offset": [
+      0,
+      -12
+    ],
+    "originalSize": [
+      768,
+      1248
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

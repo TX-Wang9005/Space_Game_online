@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "CanPeople",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "63425c71-8526-49e9-95c3-0fb9a32b3ad5"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "17b29456-ed3d-4fa6-82be-cdbf05f0563d"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "689df9f6-b4c1-421d-a54d-abb41f7e24f9"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "45112548-6e24-4ee3-af84-8afa6863e4b2"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

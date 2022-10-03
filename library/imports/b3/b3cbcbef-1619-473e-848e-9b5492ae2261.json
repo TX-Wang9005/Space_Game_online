@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "真。決勝賭豪",
+    "texture": "b3305cb7-5529-48e9-8d8d-9e75c2651428",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      558,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      558,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

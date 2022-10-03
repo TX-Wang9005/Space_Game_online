@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EXIT_hover",
+    "texture": "9a387576-1e24-404a-ac24-451aeab3979e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paper_hover",
+    "texture": "d1917591-96e5-4b72-b729-2609fbfccd65",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      121
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      121
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

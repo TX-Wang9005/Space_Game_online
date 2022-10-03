@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "choose_hover",
+    "texture": "f25941b4-5106-4440-8d77-907f31c91972",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      149,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      149,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

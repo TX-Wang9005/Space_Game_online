@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fight_pink",
+    "texture": "426f5e1a-05e9-417e-a2ed-9c75e06e5152",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

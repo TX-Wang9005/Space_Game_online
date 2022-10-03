@@ -1,0 +1,98 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "set1 32x32.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "tile000": {
+      "__uuid__": "2d82b6ec-dd82-4a16-97b7-20da9531d5c1"
+    },
+    "tile001": {
+      "__uuid__": "51dab621-6f9a-4473-8a1e-5f67fd63c148"
+    },
+    "tile007": {
+      "__uuid__": "3fa4a754-a12f-4d6e-b5ad-633abeb7570e"
+    },
+    "tile008": {
+      "__uuid__": "fa9aebf3-0da9-4d4e-84ce-387896343c2a"
+    },
+    "tile009": {
+      "__uuid__": "78b2b7fa-483b-47dd-bb00-d8baa6f4a942"
+    },
+    "tile010": {
+      "__uuid__": "71366ac0-9c9b-4f54-ab48-81ad42e1f81d"
+    },
+    "tile011": {
+      "__uuid__": "629a074b-34fd-4d54-a3f0-53a7a4a1b71d"
+    },
+    "tile013": {
+      "__uuid__": "da757248-2ed7-4f3f-88c1-01bd4e1fd85e"
+    },
+    "tile014": {
+      "__uuid__": "c69964da-70e1-4d7f-a2aa-fb5afcd3d021"
+    },
+    "tile015": {
+      "__uuid__": "7fc7e2a3-077e-47bc-b746-6fa9ebeab820"
+    },
+    "tile016": {
+      "__uuid__": "57da9e16-e1f8-42b0-a8c4-1b67b9bc5819"
+    },
+    "tile018": {
+      "__uuid__": "555fb719-8bfb-4c6e-b085-a633aee5b264"
+    },
+    "tile019": {
+      "__uuid__": "6a5090b7-ae0e-4303-8a52-e656a58ce55c"
+    },
+    "tile022": {
+      "__uuid__": "3764d676-39d2-4fc6-a76f-93405c552dda"
+    },
+    "tile028": {
+      "__uuid__": "6ad5e116-3130-4030-bbbf-abafff9e1811"
+    },
+    "tile029": {
+      "__uuid__": "a2694dbd-a2a7-46ed-8fd7-78e826544f28"
+    },
+    "tile030": {
+      "__uuid__": "42100e5b-a0cb-42c7-82bb-2edaddfa2100"
+    },
+    "tile032": {
+      "__uuid__": "55071620-a7be-497c-b628-d6a4c8cf65eb"
+    },
+    "tile033": {
+      "__uuid__": "647b75ff-224f-4c00-be37-7e7add54faa8"
+    },
+    "tile034": {
+      "__uuid__": "46ab9b1a-214b-4e5c-b7df-54c793686a15"
+    },
+    "tile037": {
+      "__uuid__": "e5bf54fa-2778-4d56-9d2c-7ceaba989de0"
+    },
+    "tile038": {
+      "__uuid__": "298b2cbe-11fc-4b8b-8432-e8300f2821e5"
+    },
+    "tile040": {
+      "__uuid__": "951f8190-5b1f-4a3a-b4b4-086868bd3c74"
+    },
+    "tile042": {
+      "__uuid__": "f1ea8d44-6ed9-46e0-adec-30157b2d6ac0"
+    },
+    "tile043": {
+      "__uuid__": "38fdc655-7b83-41d9-bde6-1e5fb0b7aab5"
+    },
+    "tile044": {
+      "__uuid__": "b006dd40-0bce-435f-bf40-6fad5dbd69ee"
+    },
+    "tile045": {
+      "__uuid__": "04371d64-9520-4c2b-b84c-fc0048f19ebd"
+    },
+    "tile046": {
+      "__uuid__": "dbbfe28d-3d9a-4dd3-b113-dced82ff85a7"
+    },
+    "tile055": {
+      "__uuid__": "e48ca013-11c0-4801-adae-d20f1a25b748"
+    },
+    "tile056": {
+      "__uuid__": "82b8e24d-e886-406f-aa02-86402e8b5b6b"
+    }
+  }
+}

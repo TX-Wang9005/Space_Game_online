@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HeroCard2",
+    "texture": "54d153e6-9b09-4b07-9d59-643ec4ce64d2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      225,
+      491
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      225,
+      491
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

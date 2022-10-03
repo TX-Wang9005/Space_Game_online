@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reject_hover",
+    "texture": "2fe36d6c-9466-44bc-9030-0573bbcf4112",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      135,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      135,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

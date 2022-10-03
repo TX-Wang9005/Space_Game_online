@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stone_hover",
+    "texture": "4f396f32-1da1-477b-899c-fc6a1ec1f096",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      121
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      121
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

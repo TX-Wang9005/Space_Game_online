@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "VerticalLaser (2)",
+    "texture": "b8d9184c-585c-41a8-975b-701ee5ba69c6",
+    "atlas": "",
+    "rect": [
+      114,
+      0,
+      28,
+      256
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

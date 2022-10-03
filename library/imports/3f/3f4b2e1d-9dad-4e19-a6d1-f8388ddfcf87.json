@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boss x3",
+    "texture": "b768f1c9-6d45-4102-b8b2-4b9519fe5cb6",
+    "atlas": "",
+    "rect": [
+      24,
+      51,
+      3198,
+      1293
+    ],
+    "offset": [
+      -9,
+      -25.5
+    ],
+    "originalSize": [
+      3264,
+      1344
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

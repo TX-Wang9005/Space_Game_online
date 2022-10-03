@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Wall x2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Wall x2-0": {
+      "__uuid__": "ccec9911-2cbf-4d0d-a621-ab61f23c95fc"
+    },
+    "Wall x2-1": {
+      "__uuid__": "3f691569-7907-46fa-bbeb-fe6ec78c0904"
+    },
+    "Wall x2-2": {
+      "__uuid__": "ef216519-a091-45fe-ad42-5baedc1e6ef0"
+    },
+    "Wall x2-3": {
+      "__uuid__": "fc4714f6-e691-401d-b5b1-09ee4c7b6fd6"
+    },
+    "Wall x2-4": {
+      "__uuid__": "75e19f7f-2cab-4f8c-b79a-c01185419c82"
+    },
+    "Wall x2-5": {
+      "__uuid__": "d16f3b11-3ef3-41d3-800e-8a4a19822ef6"
+    },
+    "Wall x2-6": {
+      "__uuid__": "5b5ef5be-2bd9-43d7-af32-6d9293fbed56"
+    },
+    "Wall x2-7": {
+      "__uuid__": "d7515db2-f49a-4e02-9fd1-0adeadd8a053"
+    },
+    "Wall x2-8": {
+      "__uuid__": "ef5923b3-a848-4883-b4be-52128f787623"
+    }
+  }
+}

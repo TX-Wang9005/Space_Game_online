@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sign (6)",
+    "texture": "b807ee04-8691-492d-9e7b-60e2e5ac3d6f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      113,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boss outline x1",
+    "texture": "9291f9a6-2780-4aa9-8e12-91c9ceed54d9",
+    "atlas": "",
+    "rect": [
+      7,
+      16,
+      1066,
+      402
+    ],
+    "offset": [
+      -4,
+      7
+    ],
+    "originalSize": [
+      1088,
+      448
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "VerticalLaserOff",
+    "texture": "83a3182f-0014-4af0-8dfe-d6806a4ecf24",
+    "atlas": "",
+    "rect": [
+      93,
+      145,
+      76,
+      74
+    ],
+    "offset": [
+      3,
+      -54
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

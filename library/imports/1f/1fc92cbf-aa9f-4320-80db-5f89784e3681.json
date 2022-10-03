@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "players red x1",
+    "texture": "1cd40520-d0c7-4f41-9917-d7766ff39bbd",
+    "atlas": "",
+    "rect": [
+      4,
+      8,
+      248,
+      408
+    ],
+    "offset": [
+      0,
+      -4
+    ],
+    "originalSize": [
+      256,
+      416
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

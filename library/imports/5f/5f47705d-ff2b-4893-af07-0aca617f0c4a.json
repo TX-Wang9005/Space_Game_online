@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MonedaD_1",
+    "texture": "c022e555-94bd-41f3-8823-00dcfd92adba",
+    "atlas": "366be8bd-414d-42bb-9c98-6d7256ba9471",
+    "rect": [
+      16,
+      0,
+      16,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      16
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

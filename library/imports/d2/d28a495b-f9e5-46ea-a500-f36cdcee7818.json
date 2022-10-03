@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pipe (1)",
+    "texture": "8585a00e-16d8-41b8-a5d3-fefcd66345e5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      282
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      282
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

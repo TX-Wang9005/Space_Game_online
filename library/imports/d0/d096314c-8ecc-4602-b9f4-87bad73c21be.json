@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Switch (1)",
+    "texture": "ac98ed76-b02d-47a4-b224-cec9e85c2dee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      161
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      161
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

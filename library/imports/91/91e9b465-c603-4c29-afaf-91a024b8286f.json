@@ -1,0 +1,8 @@
+{
+  "__type__": "cc.AudioClip",
+  "_name": "自動門關門",
+  "_objFlags": 0,
+  "_native": ".wav",
+  "duration": 6,
+  "loadMode": 0
+}

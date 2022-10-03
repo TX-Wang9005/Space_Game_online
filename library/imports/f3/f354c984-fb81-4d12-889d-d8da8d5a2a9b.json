@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "space game online",
+    "texture": "67c30ee4-a724-4067-b816-a992c696d2b8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      703,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      703,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

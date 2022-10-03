@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Locker (2)",
+    "texture": "69a9a6d1-da92-4972-a9d9-e43ca8404fd5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      213,
+      457
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      213,
+      457
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

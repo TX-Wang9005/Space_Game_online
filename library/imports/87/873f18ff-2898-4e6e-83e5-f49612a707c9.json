@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "PlayerIdle.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "tile000": {
+      "__uuid__": "939f6458-02ea-427a-bf47-07291527324f"
+    },
+    "tile001": {
+      "__uuid__": "6f0e0a49-ec7e-4a7b-b7dd-7f74ea666820"
+    },
+    "tile002": {
+      "__uuid__": "ea137ed6-ad79-4bc8-81e3-3c405f8fb596"
+    },
+    "tile003": {
+      "__uuid__": "9bd9a4ec-6bdd-41ce-94c9-39085b560dec"
+    },
+    "tile004": {
+      "__uuid__": "10afe3b4-553c-41fb-8980-d8c0835c8cc5"
+    },
+    "tile005": {
+      "__uuid__": "432bed34-eb8b-40a8-98e0-3efa3a89ba1f"
+    },
+    "tile006": {
+      "__uuid__": "b834af9c-94d2-4a9a-bbc4-175d4f858c6a"
+    },
+    "tile007": {
+      "__uuid__": "a24d2673-26fc-46fc-9034-31564279c6ff"
+    },
+    "tile008": {
+      "__uuid__": "26a20c0c-12e4-4825-87a3-78d685b8aef0"
+    },
+    "tile009": {
+      "__uuid__": "df78b7c9-0d03-4196-90cd-5dffcaa38fdf"
+    },
+    "tile010": {
+      "__uuid__": "b42975cc-5203-4e4f-a9e7-966ab2df012d"
+    }
+  }
+}

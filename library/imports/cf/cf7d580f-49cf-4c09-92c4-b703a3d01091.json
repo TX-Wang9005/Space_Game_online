@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "projectiles x1",
+    "texture": "cba1fd50-aada-4506-ad09-ce6e879127e3",
+    "atlas": "",
+    "rect": [
+      2,
+      15,
+      152,
+      241
+    ],
+    "offset": [
+      -2,
+      -7.5
+    ],
+    "originalSize": [
+      160,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

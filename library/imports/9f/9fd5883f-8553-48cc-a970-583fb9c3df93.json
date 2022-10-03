@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Read Me",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "INCLUDED\r\n- Tileset (32x32)\r\n- Animated Props and Items\r\n- Game UI\r\n- 8 Animated Projectiles Including collision.\r\n- 2 Players (32x32) 4 Styles, Blue, Red, Green and Grey.\r\n- NPC (32x32)\r\n- 3 Enemy Types (32x32)\r\n- 1 Boss (64x64) Legs, body and outlines are separate for best application.\r\n\r\nANIMATIONS\r\n- Players: Idle/Talk/Reload/Run/Shoot/Death\r\n- NPC: Idle1/Idle2/Talk\r\n- Enemies: Idle1/Idle2/Activate/Run/Shoot/Death\r\n- Boss: Idle/Talk/Run/Shoot1/Shoot2/Shoot3/Death\r\n\r\nPNG image format. Original size and x2/x3​. Information on cell dimensions are included in the download.\r\n\r\nLICENCE: This asset pack can be used in both free and commercial projects. You can modify it to suit your own needs. You may not redistribute or resell it.\r\nIf you come across issues or need help, please contact me. Thanks! :)\r\n\r\nhttps://trevor-pupkin.itch.io/"
+}

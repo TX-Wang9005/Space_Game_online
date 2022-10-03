@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fight_hover",
+    "texture": "2a272824-131a-4881-9883-4b654b191352",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      107,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      107,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

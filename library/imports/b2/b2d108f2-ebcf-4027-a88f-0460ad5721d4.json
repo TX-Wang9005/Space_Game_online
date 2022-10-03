@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BqPanelBotton",
+    "texture": "263acb3f-9351-4e51-bb57-84621afd63cb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1091,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1091,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

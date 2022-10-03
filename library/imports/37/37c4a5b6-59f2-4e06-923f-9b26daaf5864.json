@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TopMenu2",
+    "texture": "7579279e-af21-4298-925c-88ef3f017a28",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      420,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      420,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

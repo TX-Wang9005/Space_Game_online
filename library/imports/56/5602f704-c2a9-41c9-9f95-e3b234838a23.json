@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BtnNext_hover",
+    "texture": "d2cabb9f-0413-4083-9868-0ddc9ab8b713",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      225,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      225,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

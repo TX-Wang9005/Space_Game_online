@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Account",
+    "texture": "90decc7f-3bd8-4910-966b-0b88fb6b37e2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      108,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

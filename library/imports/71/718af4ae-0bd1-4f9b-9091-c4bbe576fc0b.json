@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bronze_coin",
+    "texture": "ea4c1c37-7072-4b7f-b7b6-fb53fd6968e3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      125
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      125
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

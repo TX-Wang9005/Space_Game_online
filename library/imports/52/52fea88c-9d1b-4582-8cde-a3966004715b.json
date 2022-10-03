@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "FireBG",
+    "texture": "6097ce99-351c-432a-9ee5-e5dc9a14a993",
+    "atlas": "",
+    "rect": [
+      16,
+      10,
+      548,
+      280
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      580,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

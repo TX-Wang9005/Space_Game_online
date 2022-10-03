@@ -1,0 +1,4377 @@
+{
+  "c993d3ba-55da-495a-ad6a-21e937aca11a": {
+    "asset": 1664828159423,
+    "meta": 1664828240120,
+    "relativePath": "fonts"
+  },
+  "e3448e52-aca6-49d6-b68d-4fb9b830afa7": {
+    "asset": 1655619832000,
+    "meta": 1664828246164,
+    "relativePath": "fonts\\white_font.fnt"
+  },
+  "515610bf-2a4a-4114-a43b-3a5bcecb9a90": {
+    "asset": 1655619832000,
+    "meta": 1664828246167,
+    "relativePath": "fonts\\yellow_font.fnt"
+  },
+  "4c520054-45dd-4a4b-9f02-778389ad7764": {
+    "asset": 1655619832000,
+    "meta": 1664828240193,
+    "relativePath": "fonts\\yellow_font.png"
+  },
+  "98b6e8aa-b5e7-4b0c-bb21-d0361c66c442": {
+    "asset": 1655619832000,
+    "meta": 1664828240187,
+    "relativePath": "fonts\\white_font.png"
+  },
+  "d12458ca-250a-4ba9-8be1-2c890a35f1a0": {
+    "asset": 1664828153324,
+    "meta": 1664828240118,
+    "relativePath": "animation"
+  },
+  "33c0c600-61de-439c-8e24-ae57e23555dd": {
+    "asset": 1664828159113,
+    "meta": 1664828240119,
+    "relativePath": "audio"
+  },
+  "a9bf76a2-9687-40a7-9b64-509b832b2774": {
+    "asset": 1655619832000,
+    "meta": 1664828241840,
+    "relativePath": "audio\\Mario\\BrickBreakcut.mp3"
+  },
+  "10efcfdb-81ba-4551-a081-4b6d9ab7a356": {
+    "asset": 1655619832000,
+    "meta": 1664828241887,
+    "relativePath": "audio\\Mario\\flagdown.mp3"
+  },
+  "4c91838c-7148-4800-ad0c-db8a84a79eb3": {
+    "asset": 1655619832000,
+    "meta": 1664828241819,
+    "relativePath": "audio\\Mario\\1UP.mp3"
+  },
+  "c245d16b-9d92-4f94-ae4b-e9b5078559b5": {
+    "asset": 1655619832000,
+    "meta": 1664828241878,
+    "relativePath": "audio\\Mario\\jump.wav"
+  },
+  "70003818-6214-4a34-ae5c-b5222ce611d2": {
+    "asset": 1655619832000,
+    "meta": 1664828241880,
+    "relativePath": "audio\\Mario\\coin.wav"
+  },
+  "14a2723d-1a04-4f5e-add1-4808da02e83d": {
+    "asset": 1655619832000,
+    "meta": 1664828241888,
+    "relativePath": "audio\\Mario\\kick.wav"
+  },
+  "22fec420-10fd-4fa6-b38b-257a255e8b3a": {
+    "asset": 1655619832000,
+    "meta": 1664828241845,
+    "relativePath": "audio\\Mario\\BrickBreak.mp3"
+  },
+  "db76300d-1ec2-4145-9cf7-9520cd43ddc1": {
+    "asset": 1655619832000,
+    "meta": 1664828241882,
+    "relativePath": "audio\\Mario\\Game Over2.mp3"
+  },
+  "39d26cf7-bb5e-4196-80c5-53f244530385": {
+    "asset": 1655619832000,
+    "meta": 1664828241875,
+    "relativePath": "audio\\Mario\\Game Over.mp3"
+  },
+  "4b41f474-9daa-4aca-b321-d4ab1dc787dc": {
+    "asset": 1655619832000,
+    "meta": 1664828241884,
+    "relativePath": "audio\\Mario\\levelClear.mp3"
+  },
+  "5f1655ba-ddf6-4331-a121-bbc122722d25": {
+    "asset": 1655619832000,
+    "meta": 1664828241895,
+    "relativePath": "audio\\Mario\\loseOneLife.wav"
+  },
+  "6c1c3079-57e7-4c37-bf6b-fccbdca59e71": {
+    "asset": 1655619832000,
+    "meta": 1664828241915,
+    "relativePath": "audio\\Mario\\powerUpAppear.wav"
+  },
+  "edafc9a9-7927-46ac-9c8e-9d9a1f699c07": {
+    "asset": 1655619832000,
+    "meta": 1664828241918,
+    "relativePath": "audio\\Mario\\powerDown.wav"
+  },
+  "9a21487c-8a8e-47f1-99c8-badbc1bb855c": {
+    "asset": 1655619832000,
+    "meta": 1664828241893,
+    "relativePath": "audio\\Mario\\LevelClearCastle.mp3"
+  },
+  "0b3c1db2-8a75-4388-ade0-0ce1515d4ce5": {
+    "asset": 1655619832000,
+    "meta": 1664828241916,
+    "relativePath": "audio\\Mario\\PowerUp.mp3"
+  },
+  "1dec3687-a17f-4aef-b1a7-36e6d09779e8": {
+    "asset": 1655619832000,
+    "meta": 1664828241943,
+    "relativePath": "audio\\Mario\\TimeAlmostUp.mp3"
+  },
+  "972c1da1-9585-4fee-bdd0-026131ec9293": {
+    "asset": 1655619832000,
+    "meta": 1664828241917,
+    "relativePath": "audio\\Mario\\stomp.wav"
+  },
+  "6d9f7662-b333-4f08-b76a-643379c66e3c": {
+    "asset": 1655619832000,
+    "meta": 1664828241932,
+    "relativePath": "audio\\Mario\\OnEnemy.mp3"
+  },
+  "0211adce-3100-4816-b3b6-82ad980f7af4": {
+    "asset": 1655619832000,
+    "meta": 1664828241914,
+    "relativePath": "audio\\Mario\\reserve.wav"
+  },
+  "ffed72ec-1e43-4d43-8157-dcbdd5f0e159": {
+    "asset": 1655619832000,
+    "meta": 1664828241857,
+    "relativePath": "audio\\Mario\\bgm_3.mp3"
+  },
+  "eb20c2ec-fe7f-4fef-b798-f27a4bb9cd90": {
+    "asset": 1655619832000,
+    "meta": 1664828241847,
+    "relativePath": "audio\\Mario\\bgm_1.mp3"
+  },
+  "7df092d0-11c8-41fc-8434-1ec6617cbb62": {
+    "asset": 1655619832000,
+    "meta": 1664828241835,
+    "relativePath": "audio\\Mario\\bgm_2.mp3"
+  },
+  "4beaed58-d997-4167-80f4-fef2cb27ac8a": {
+    "asset": 1664828156641,
+    "meta": 1664828240119,
+    "relativePath": "Atlas"
+  },
+  "172ceef6-fba6-4453-ac3a-fc24d77f057f": {
+    "asset": 1664828161920,
+    "meta": 1664828240121,
+    "relativePath": "Prefab"
+  },
+  "4b638492-6a4d-41ba-a2c0-f57ce2512735": {
+    "asset": 1664828162078,
+    "meta": 1664828240122,
+    "relativePath": "Scene"
+  },
+  "2484851c-3d2c-41ad-be37-39c5b30ff942": {
+    "asset": 1664828162485,
+    "meta": 1664828240123,
+    "relativePath": "Script"
+  },
+  "c7d1521f-5174-4332-a1a6-ae43fac7b64f": {
+    "asset": 1655753282000,
+    "meta": 1664828240329,
+    "relativePath": "Scene\\GameStage1.fire"
+  },
+  "c8e78264-53a7-4224-b0e7-b643709d9640": {
+    "asset": 1664828160993,
+    "meta": 1664828240120,
+    "relativePath": "maps"
+  },
+  "484bee61-9123-477b-a215-7f8080cecd57": {
+    "asset": 1664828161836,
+    "meta": 1664828240216,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)"
+  },
+  "c3d6e40a-3a80-446c-9b20-53bea71df8f6": {
+    "asset": 1664828159914,
+    "meta": 1664828241974,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Boss"
+  },
+  "1f58b305-a881-486f-877a-70c60c25e912": {
+    "asset": 1664828159996,
+    "meta": 1664828241975,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Enemies"
+  },
+  "24922116-b71b-4c3a-8574-b878246ba665": {
+    "asset": 1664828160087,
+    "meta": 1664828241977,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\NPC"
+  },
+  "155cba4c-bc1a-4208-99a6-f65eff52b891": {
+    "asset": 1664828160265,
+    "meta": 1664828241977,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players"
+  },
+  "8f770f76-3450-4587-9ff6-05a9778c1101": {
+    "asset": 1664828160436,
+    "meta": 1664828241977,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Projectiles"
+  },
+  "4af0d60b-e744-4109-8282-4379238738b5": {
+    "asset": 1664828160481,
+    "meta": 1664828241979,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Props and Items"
+  },
+  "31607250-bd0d-40a4-aef8-a37983c081f1": {
+    "asset": 1664828160525,
+    "meta": 1664828241999,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\UI"
+  },
+  "9fd5883f-8553-48cc-a970-583fb9c3df93": {
+    "asset": 1655619832000,
+    "meta": 1664828241998,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Read Me.txt"
+  },
+  "52d7913d-f00e-4cbe-98e8-de0a96d59319": {
+    "asset": 1655619832000,
+    "meta": 1664828243399,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Boss\\17x7 Cells.txt"
+  },
+  "b0b5963a-9ff1-46c9-be3a-ff8b90a54297": {
+    "asset": 1664828159942,
+    "meta": 1664828243402,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Boss\\No Outlines"
+  },
+  "3ac949da-6e5f-4e37-8f7d-8f12ce5e82ad": {
+    "asset": 1655619832000,
+    "meta": 1664828242019,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\tileset x1.png"
+  },
+  "a617d06d-5872-4e13-922e-8f14fc18cfeb": {
+    "asset": 1655619832000,
+    "meta": 1664828243420,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Boss\\boss outline x1.png"
+  },
+  "2b04c8c1-675a-45da-b25b-bf5f583700cb": {
+    "asset": 1655619832000,
+    "meta": 1664828242050,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\tileset x2.png"
+  },
+  "0aef13b0-b23a-460c-8da8-71497ee859cd": {
+    "asset": 1664828160028,
+    "meta": 1664828243437,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Enemies\\No Outlines"
+  },
+  "8a4f0f47-2c99-4fdd-8f87-08b023403b01": {
+    "asset": 1655619832000,
+    "meta": 1664828242144,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\tileset x3.png"
+  },
+  "77f15f72-b34c-4365-a652-953bc8c095e4": {
+    "asset": 1664828160117,
+    "meta": 1664828243439,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\NPC\\No Outlines"
+  },
+  "f4907f08-fd39-4851-aa0d-461fe6290138": {
+    "asset": 1655619832000,
+    "meta": 1664828243439,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Boss\\boss x1.png"
+  },
+  "8030b85a-adf4-48c6-8d6d-1dbe498a5516": {
+    "asset": 1655619832000,
+    "meta": 1664828243408,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Enemies\\10x16 Cells.txt"
+  },
+  "123be80b-49e2-4848-8b01-fb8aa53ec414": {
+    "asset": 1655619832000,
+    "meta": 1664828243467,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\NPC\\6x3 Cells.txt"
+  },
+  "529086f4-c60e-4dda-8c54-4b3d203942a9": {
+    "asset": 1655619832000,
+    "meta": 1664828243437,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Boss\\boss outline x2.png"
+  },
+  "dfc5490b-280c-4495-9cb4-1760fbe5ec26": {
+    "asset": 1655619832000,
+    "meta": 1664828243450,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Boss\\boss outline x3.png"
+  },
+  "220d86d5-cee7-4202-9512-4831fe8f2e95": {
+    "asset": 1664828160394,
+    "meta": 1664828243467,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\No Outlines"
+  },
+  "448a7425-b732-41b5-85a9-ba5b7a33ddb0": {
+    "asset": 1655619832000,
+    "meta": 1664828243472,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\8x13 Cells.txt"
+  },
+  "0a4ee005-7fbd-443f-9e7b-2e857ee4cbcb": {
+    "asset": 1655619832000,
+    "meta": 1664828243461,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Boss\\boss x2.png"
+  },
+  "f17edf74-01cc-4715-835f-ac677a3cea5a": {
+    "asset": 1655619832000,
+    "meta": 1664828243458,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Enemies\\enemies x1.png"
+  },
+  "cded437c-ffb6-4362-8480-8568e0806be8": {
+    "asset": 1655619832000,
+    "meta": 1664828243489,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Enemies\\enemies x2.png"
+  },
+  "9b42e840-0d6e-40be-91e8-c637f2bd10c1": {
+    "asset": 1655619832000,
+    "meta": 1664828243503,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Enemies\\enemies x3.png"
+  },
+  "12482334-c482-4cdc-b883-420afa8e6d19": {
+    "asset": 1655619832000,
+    "meta": 1664828243498,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\NPC\\npc x1.png"
+  },
+  "f1a3547b-e6be-4e19-848e-942b9cbede20": {
+    "asset": 1655619832000,
+    "meta": 1664828243486,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Boss\\boss x3.png"
+  },
+  "5b311a9b-93dd-4974-a331-3b3cb29390f0": {
+    "asset": 1655619832000,
+    "meta": 1664828243505,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\NPC\\npc x2.png"
+  },
+  "f658235e-7caf-4986-9b00-61456c052c5b": {
+    "asset": 1655619832000,
+    "meta": 1664828243511,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\NPC\\npc x3.png"
+  },
+  "7398d3a6-84f6-447f-b8a5-d53224138251": {
+    "asset": 1655619832000,
+    "meta": 1664828243517,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\players blue x1.png"
+  },
+  "4dc69d8b-1a99-45f8-aa84-311a0dbb0258": {
+    "asset": 1655619832000,
+    "meta": 1664828243544,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\players blue x3.png"
+  },
+  "28b32d69-3741-467f-9876-c7614fd39867": {
+    "asset": 1655619832000,
+    "meta": 1664828243520,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\players blue x2.png"
+  },
+  "3a3a2e8b-6a3a-4158-91d6-9cf7a72ad670": {
+    "asset": 1655619832000,
+    "meta": 1664828243532,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\players green x1.png"
+  },
+  "db165af1-86a5-4856-8a52-dc978b682c98": {
+    "asset": 1655619832000,
+    "meta": 1664828243574,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Projectiles\\5x8 Cells.txt"
+  },
+  "be9bc4d7-75b8-44ab-b3e7-343a10f6a497": {
+    "asset": 1655619832000,
+    "meta": 1664828243552,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\players green x2.png"
+  },
+  "e5e20299-e336-46f4-be1c-481a918e3e7b": {
+    "asset": 1655619832000,
+    "meta": 1664828243560,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\players grey x1.png"
+  },
+  "c91f55b8-f1c7-49b6-97c3-9326a39436c3": {
+    "asset": 1655619832000,
+    "meta": 1664828243558,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\players green x3.png"
+  },
+  "fde10f7e-1fe5-4084-b66f-61234f70ee4d": {
+    "asset": 1655619832000,
+    "meta": 1664828243570,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\players grey x2.png"
+  },
+  "1c1d117d-17d2-47f9-b7f1-4c34c97931a8": {
+    "asset": 1655619832000,
+    "meta": 1664828243596,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\players red x1.png"
+  },
+  "1155f4e8-6da3-41c9-a765-45c8ab299af8": {
+    "asset": 1655619832000,
+    "meta": 1664828243572,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\players grey x3.png"
+  },
+  "5733d9e9-c5cc-42e6-b52c-147fcf9f2e64": {
+    "asset": 1655619832000,
+    "meta": 1664828243615,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Projectiles\\projectiles x2.png"
+  },
+  "ed403d47-432b-43cc-8ae2-971a343a20b4": {
+    "asset": 1655619832000,
+    "meta": 1664828243576,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Props and Items\\24x22 Cells.txt"
+  },
+  "b661bc3d-1705-40d5-8177-25037df5ff68": {
+    "asset": 1655619832000,
+    "meta": 1664828243607,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\UI\\20x11 Cells.txt"
+  },
+  "45de8620-de87-47eb-aaca-226a666f0775": {
+    "asset": 1655619832000,
+    "meta": 1664828243592,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\players red x2.png"
+  },
+  "cba1fd50-aada-4506-ad09-ce6e879127e3": {
+    "asset": 1655619832000,
+    "meta": 1664828243600,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Projectiles\\projectiles x1.png"
+  },
+  "692a48a0-0a59-430e-b8fc-8a7efef54337": {
+    "asset": 1655619832000,
+    "meta": 1664828243613,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\players red x3.png"
+  },
+  "bbd7ef4f-2d5c-4ce6-bdaa-49bf2ad2ad07": {
+    "asset": 1655619832000,
+    "meta": 1664828243617,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Projectiles\\projectiles x3.png"
+  },
+  "a87af806-df23-429d-8dfc-9675176d116c": {
+    "asset": 1655619832000,
+    "meta": 1664828243627,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Props and Items\\props and items x1.png"
+  },
+  "68f9eba1-77f7-442a-9fd5-48d94e1d7860": {
+    "asset": 1655619832000,
+    "meta": 1664828243690,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\UI\\ui x1.png"
+  },
+  "80aa9dcc-2877-49c0-a380-152af095cf32": {
+    "asset": 1655619832000,
+    "meta": 1664828243669,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\UI\\ui x2.png"
+  },
+  "eb14ff5b-27fc-400e-82d5-c54c796da835": {
+    "asset": 1655619832000,
+    "meta": 1664828243638,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Props and Items\\props and items x2.png"
+  },
+  "65d95522-f880-44fa-ba2a-fb6be39c71e7": {
+    "asset": 1655619832000,
+    "meta": 1664828243677,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\UI\\ui x3.png"
+  },
+  "ada8f532-fc27-425d-9e20-178db312cc09": {
+    "asset": 1655619832000,
+    "meta": 1664828243687,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Props and Items\\props and items x3.png"
+  },
+  "f44725e9-1ddc-47fc-81d7-6c3fd87a401b": {
+    "asset": 1655619832000,
+    "meta": 1664828245377,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Boss\\No Outlines\\boss x1.png"
+  },
+  "f03fd5c5-fd13-4022-9f30-3e1235ee3768": {
+    "asset": 1655619832000,
+    "meta": 1664828245417,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Boss\\No Outlines\\boss x2.png"
+  },
+  "b1afb209-a1dc-412e-8121-3c6c9cc62aff": {
+    "asset": 1655619832000,
+    "meta": 1664828245418,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Enemies\\No Outlines\\enemies x1.png"
+  },
+  "b905ab41-ddc1-4720-97f9-2fad960b2e90": {
+    "asset": 1655619832000,
+    "meta": 1664828245479,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Enemies\\No Outlines\\enemies x2.png"
+  },
+  "b58701eb-e467-433c-8903-ab4c3630891d": {
+    "asset": 1655619832000,
+    "meta": 1664828245470,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\NPC\\No Outlines\\npc x1.png"
+  },
+  "b723c150-fd7b-4786-952b-49bc31dcded6": {
+    "asset": 1655619832000,
+    "meta": 1664828245468,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Enemies\\No Outlines\\enemies x3.png"
+  },
+  "41d42b79-e493-46f7-b7e5-4391ef9d7cf4": {
+    "asset": 1655619832000,
+    "meta": 1664828245453,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Boss\\No Outlines\\boss x3.png"
+  },
+  "ed6060a6-b3d8-4797-b852-f749b4dac136": {
+    "asset": 1655619832000,
+    "meta": 1664828245481,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\NPC\\No Outlines\\npc x2.png"
+  },
+  "7dc7866a-29ca-4692-a157-156875162c5e": {
+    "asset": 1655619832000,
+    "meta": 1664828245504,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\NPC\\No Outlines\\npc x3.png"
+  },
+  "d9581d4a-2f77-472c-933b-1c7b9eb8e2b4": {
+    "asset": 1655619832000,
+    "meta": 1664828245511,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\No Outlines\\players blue x1.png"
+  },
+  "cdac6a15-77e9-41b6-8d70-ccb2da58c937": {
+    "asset": 1655619832000,
+    "meta": 1664828245519,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\No Outlines\\players green x1.png"
+  },
+  "805c1312-b573-455c-80cc-73a15c85d52d": {
+    "asset": 1655619832000,
+    "meta": 1664828245513,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\No Outlines\\players blue x2.png"
+  },
+  "268f32d5-15fe-49ba-8667-9160a306c2e1": {
+    "asset": 1655619832000,
+    "meta": 1664828245526,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\No Outlines\\players blue x3.png"
+  },
+  "9cda9be6-8ea4-41e5-91bf-813812e3f327": {
+    "asset": 1655619832000,
+    "meta": 1664828245550,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\No Outlines\\players green x2.png"
+  },
+  "80c6e3a6-472b-4200-b31b-20f5a23b67be": {
+    "asset": 1655619832000,
+    "meta": 1664828245551,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\No Outlines\\players grey x1.png"
+  },
+  "f62dd1f2-3d34-42c0-86d2-4434c1393271": {
+    "asset": 1655619832000,
+    "meta": 1664828245562,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\No Outlines\\players green x3.png"
+  },
+  "c36f9fd0-0ede-4a0e-94b9-451b15637976": {
+    "asset": 1655619832000,
+    "meta": 1664828245570,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\No Outlines\\players grey x2.png"
+  },
+  "6144e4f6-2c44-4880-8b7f-f6e868b05413": {
+    "asset": 1655619832000,
+    "meta": 1664828245581,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\No Outlines\\players grey x3.png"
+  },
+  "875cd4ab-4d78-4725-a89d-6afe43a433cd": {
+    "asset": 1655619832000,
+    "meta": 1664828245598,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\No Outlines\\players red x1.png"
+  },
+  "ff7ff08c-dff8-4c1d-b236-1d13618dd90d": {
+    "asset": 1655619832000,
+    "meta": 1664828245605,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\No Outlines\\players red x2.png"
+  },
+  "ba1a2a67-91bb-4adf-a2c6-501f65484280": {
+    "asset": 1655619832000,
+    "meta": 1664828245634,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack\\Players\\No Outlines\\players red x3.png"
+  },
+  "ef5bfac2-e6ae-4be9-a662-6fcb1e84c86b": {
+    "asset": 1664828160947,
+    "meta": 1664828240215,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)"
+  },
+  "c0fe1812-f631-4352-b2ff-8e69a9ce95e0": {
+    "asset": 1664828160645,
+    "meta": 1664828242000,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\NPC"
+  },
+  "8a650b49-d00d-43ea-a410-d6ab90dd186d": {
+    "asset": 1664828160822,
+    "meta": 1664828242001,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players"
+  },
+  "ae25ee90-d25b-43a7-a4d9-e7e26657a117": {
+    "asset": 1664828160987,
+    "meta": 1664828242024,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\UI"
+  },
+  "7392a340-d6c7-431b-802f-cdb345cb2b42": {
+    "asset": 1664828160674,
+    "meta": 1664828243618,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\NPC\\No Outlines"
+  },
+  "f41aaba0-dac2-4873-9b80-bbf92c5a3a24": {
+    "asset": 1655619832000,
+    "meta": 1664828242028,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Read Me.txt"
+  },
+  "e5f36ae1-14f7-418c-be63-f18a6baebdf6": {
+    "asset": 1655619832000,
+    "meta": 1664828243624,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\NPC\\6x3 Cells.txt"
+  },
+  "abd9e2f7-2c87-472c-a7e0-1dbc7770842c": {
+    "asset": 1664828160941,
+    "meta": 1664828243647,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\No Outlines"
+  },
+  "394d518c-b55e-47d9-b4d6-49d7900a8fa9": {
+    "asset": 1655619832000,
+    "meta": 1664828243646,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\8x13 Cells.txt"
+  },
+  "d06f8d7d-6a4d-4b7b-8000-75f1791673ab": {
+    "asset": 1655619832000,
+    "meta": 1664828243665,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\NPC\\npc x1.png"
+  },
+  "9977f71b-22f5-483a-becf-568b096b7dce": {
+    "asset": 1655619832000,
+    "meta": 1664828243693,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\NPC\\npc x3.png"
+  },
+  "33ce9c67-c3ca-47a2-adcd-c35709a09539": {
+    "asset": 1655619832000,
+    "meta": 1664828243695,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\NPC\\npc x2.png"
+  },
+  "1e7dd472-6c1f-4e0a-af8e-e376f9a00eed": {
+    "asset": 1655619832000,
+    "meta": 1664828242257,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\tileset x1.png"
+  },
+  "b5dd2c48-a7a2-4794-9038-ea5e9dfa2121": {
+    "asset": 1655619832000,
+    "meta": 1664828242234,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\tileset x2.png"
+  },
+  "b513d680-329c-4069-8676-9d00650f7a81": {
+    "asset": 1655619832000,
+    "meta": 1664828243706,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\players blue x1.png"
+  },
+  "864c33bf-110a-416d-8671-86534eb335e1": {
+    "asset": 1655619832000,
+    "meta": 1664828243075,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\tileset x3.png"
+  },
+  "4d331aa4-fb3d-4e2f-b009-45927c939cd7": {
+    "asset": 1655619832000,
+    "meta": 1664828243743,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\players blue x2.png"
+  },
+  "37cb9809-57d1-476e-9b5a-8c93c6fc21c7": {
+    "asset": 1655619832000,
+    "meta": 1664828243732,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\players blue x3.png"
+  },
+  "81e18f7b-5220-48e2-8b35-ffba1607a8d0": {
+    "asset": 1655619832000,
+    "meta": 1664828243720,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\players green x1.png"
+  },
+  "7ed5ef01-de75-4dda-9e1e-6567b9b0909a": {
+    "asset": 1655619832000,
+    "meta": 1664828243744,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\UI\\20x11 Cells.txt"
+  },
+  "98619164-31b7-4b4b-ae9d-06ffcdad8d55": {
+    "asset": 1655619832000,
+    "meta": 1664828243736,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\players grey x1.png"
+  },
+  "f82f2b0a-651e-4287-aba6-e41aeaa13300": {
+    "asset": 1655619832000,
+    "meta": 1664828243735,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\players green x2.png"
+  },
+  "b164a83d-8340-4b06-aa65-01bfdd3f411f": {
+    "asset": 1655619832000,
+    "meta": 1664828243757,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\players green x3.png"
+  },
+  "783ba12c-65aa-4c0a-9a64-1e40fe8a60bf": {
+    "asset": 1655619832000,
+    "meta": 1664828243754,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\players grey x2.png"
+  },
+  "ca8fc56b-37f3-4190-926f-eaeeba41ffba": {
+    "asset": 1655619832000,
+    "meta": 1664828243760,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\players grey x3.png"
+  },
+  "3dcf2c8d-92fe-4ce7-ab59-b9b682daae30": {
+    "asset": 1655619832000,
+    "meta": 1664828243776,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\players red x1.png"
+  },
+  "f98318f4-502e-42bf-a98d-3f67f503590c": {
+    "asset": 1655619832000,
+    "meta": 1664828243793,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\players red x2.png"
+  },
+  "f4e7b9a4-d0a1-419e-bbe3-40af160080f7": {
+    "asset": 1655619832000,
+    "meta": 1664828243807,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\players red x3.png"
+  },
+  "4dda800f-ff69-4feb-95aa-eed4a44ac078": {
+    "asset": 1655619832000,
+    "meta": 1664828243784,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\UI\\ui x1.png"
+  },
+  "87d33f38-270b-4c03-a08e-ddbd70146adf": {
+    "asset": 1655619832000,
+    "meta": 1664828243790,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\UI\\ui x2.png"
+  },
+  "fcf169dc-5091-42c2-abbf-7fcfe51afda2": {
+    "asset": 1655619832000,
+    "meta": 1664828243822,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\UI\\ui x3.png"
+  },
+  "0462b714-f629-405f-b565-311d2f95d1f4": {
+    "asset": 1655619832000,
+    "meta": 1664828245603,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\NPC\\No Outlines\\npc x1.png"
+  },
+  "5a37992b-079e-4cec-9eb7-a55f94a5cbc2": {
+    "asset": 1655619832000,
+    "meta": 1664828245627,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\NPC\\No Outlines\\npc x3.png"
+  },
+  "63e942f9-6e6e-4a14-8111-b73523e863e9": {
+    "asset": 1655619832000,
+    "meta": 1664828245606,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\NPC\\No Outlines\\npc x2.png"
+  },
+  "9046826b-b4f7-46f7-9884-af1b09f9d61c": {
+    "asset": 1655619832000,
+    "meta": 1664828245641,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\No Outlines\\players blue x1.png"
+  },
+  "02395117-0dd6-4c43-ac85-f9f9c81b2ca8": {
+    "asset": 1655619832000,
+    "meta": 1664828245655,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\No Outlines\\players blue x2.png"
+  },
+  "4a22dd3e-d06e-494e-9ddb-12848bea3a8d": {
+    "asset": 1655619832000,
+    "meta": 1664828245660,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\No Outlines\\players green x1.png"
+  },
+  "4d64a9a7-4cee-4a26-893a-e1671858cda8": {
+    "asset": 1655619832000,
+    "meta": 1664828245658,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\No Outlines\\players blue x3.png"
+  },
+  "e7e9fb55-a6bd-4945-ad3a-8d340ee9579b": {
+    "asset": 1655619832000,
+    "meta": 1664828245683,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\No Outlines\\players green x2.png"
+  },
+  "296d15b0-d2b6-4433-a0e2-dd91818bc740": {
+    "asset": 1655619832000,
+    "meta": 1664828245722,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\No Outlines\\players grey x1.png"
+  },
+  "989b73d6-1cc3-4b04-b03c-965b15f183a2": {
+    "asset": 1655619832000,
+    "meta": 1664828245716,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\No Outlines\\players grey x2.png"
+  },
+  "96147a91-c3d3-42aa-a3d6-6c28d06cfe3b": {
+    "asset": 1655619832000,
+    "meta": 1664828245712,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\No Outlines\\players green x3.png"
+  },
+  "868492f9-0085-4266-99b1-7c1af39d5440": {
+    "asset": 1655619832000,
+    "meta": 1664828245741,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\No Outlines\\players grey x3.png"
+  },
+  "0876a9ca-196b-422e-9668-1a96cec1c847": {
+    "asset": 1655619832000,
+    "meta": 1664828245751,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\No Outlines\\players red x1.png"
+  },
+  "c8dfcce2-9a8b-488a-8a57-0e3aa2cafb8e": {
+    "asset": 1655619832000,
+    "meta": 1664828245802,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\No Outlines\\players red x2.png"
+  },
+  "9ac1f4ff-d150-4997-bea0-1ee526cd5dc9": {
+    "asset": 1655619832000,
+    "meta": 1664828245773,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (DEMO)\\Players\\No Outlines\\players red x3.png"
+  },
+  "bc064544-62a7-48f9-865e-255a71fcf0a8": {
+    "asset": 1664828160487,
+    "meta": 1664828240214,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack"
+  },
+  "35a77aaf-8a1e-4c7b-b038-cf70a96136d4": {
+    "asset": 1664828161165,
+    "meta": 1664828242024,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Boss"
+  },
+  "4f82a1d6-3a78-468f-94b2-722e5a65686e": {
+    "asset": 1664828161267,
+    "meta": 1664828242025,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Enemies"
+  },
+  "d13b5cf1-342e-4f6b-8038-0690c18f1782": {
+    "asset": 1664828161359,
+    "meta": 1664828242027,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\NPC"
+  },
+  "16e6cf6b-e06d-47ba-88f9-52fe9de06f23": {
+    "asset": 1664828161561,
+    "meta": 1664828242028,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players"
+  },
+  "827b675b-3eff-4063-9039-b58cd06cf01c": {
+    "asset": 1664828161788,
+    "meta": 1664828242029,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Projectiles"
+  },
+  "bb125d79-9126-42ad-8312-db4948f160a1": {
+    "asset": 1664828161831,
+    "meta": 1664828242029,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Props and Items"
+  },
+  "60bfaf6c-8319-4a4f-a906-d250569b0dbd": {
+    "asset": 1664828161874,
+    "meta": 1664828242054,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\UI"
+  },
+  "b2584cf9-3cad-4cf7-be1a-72ee41b0cf9e": {
+    "asset": 1655619832000,
+    "meta": 1664828242052,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Read Me.txt"
+  },
+  "b88db486-e7d6-4be6-b418-fc5a20f258ab": {
+    "asset": 1655619832000,
+    "meta": 1664828240252,
+    "relativePath": "maps\\props and items x1.png"
+  },
+  "6cc383eb-8abd-44d8-850a-667138fefd01": {
+    "asset": 1655619832000,
+    "meta": 1664828240254,
+    "relativePath": "maps\\props and items x2.png"
+  },
+  "864c64be-39e7-4675-8257-12b5326ba823": {
+    "asset": 1655619832000,
+    "meta": 1664828240275,
+    "relativePath": "maps\\tileset x1.png"
+  },
+  "241bb9c0-b49d-44c1-8e42-06439c92908e": {
+    "asset": 1655619832000,
+    "meta": 1664828243044,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\tileset x1.png"
+  },
+  "3c615c3a-ec4b-4954-be62-c829e8a5645d": {
+    "asset": 1655619832000,
+    "meta": 1664828243057,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\tileset x2.png"
+  },
+  "fa859e28-f2d8-4ea1-9397-b72852d8393d": {
+    "asset": 1655619832000,
+    "meta": 1664828243107,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\tileset x3.png"
+  },
+  "558a967d-b7c1-4432-9b81-8c28607d8d13": {
+    "asset": 1655619832000,
+    "meta": 1664828243765,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Boss\\17x7 Cells.txt"
+  },
+  "4b5a9bba-6652-439b-bf68-3c37d3af36b7": {
+    "asset": 1664828161196,
+    "meta": 1664828243808,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Boss\\No Outlines"
+  },
+  "59783b6f-b379-45b3-8f4f-c84fe5da09ad": {
+    "asset": 1655619832000,
+    "meta": 1664828243826,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Enemies\\10x16 Cells.txt"
+  },
+  "20a6855e-b540-4e04-9170-031d3f8f23d5": {
+    "asset": 1664828161299,
+    "meta": 1664828243844,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Enemies\\No Outlines"
+  },
+  "d89e6d33-9ea2-44e2-b053-36392a6ad0cc": {
+    "asset": 1664828161394,
+    "meta": 1664828243858,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\NPC\\No Outlines"
+  },
+  "9291f9a6-2780-4aa9-8e12-91c9ceed54d9": {
+    "asset": 1655619832000,
+    "meta": 1664828243840,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Boss\\boss outline x1.png"
+  },
+  "8dc63548-79df-432b-a078-9b0be10159de": {
+    "asset": 1655619832000,
+    "meta": 1664828243856,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Boss\\boss outline x2.png"
+  },
+  "66e9610a-6a9a-49c4-bbc3-61442c783320": {
+    "asset": 1655619832000,
+    "meta": 1664828243869,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\NPC\\6x3 Cells.txt"
+  },
+  "5e04bb00-4308-4962-a02d-64a3a70b9927": {
+    "asset": 1655619832000,
+    "meta": 1664828243843,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Boss\\boss x1.png"
+  },
+  "8f7a701b-63e4-4582-a1a6-f176ea68658e": {
+    "asset": 1664828161689,
+    "meta": 1664828243889,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\No Outlines"
+  },
+  "aa2af11d-df16-4b73-a0d7-ad2f03f65f46": {
+    "asset": 1655619832000,
+    "meta": 1664828243879,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Boss\\boss x2.png"
+  },
+  "c6094d79-d427-48c8-845b-cb7bb8ec74ce": {
+    "asset": 1655619832000,
+    "meta": 1664828243873,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Boss\\boss outline x3.png"
+  },
+  "2a5996f9-eb12-44b5-97fc-eefcc236ade0": {
+    "asset": 1655619832000,
+    "meta": 1664828243889,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\8x13 Cells.txt"
+  },
+  "ad62d0ab-a7c3-46be-a080-100bc3fadf85": {
+    "asset": 1655619832000,
+    "meta": 1664828243906,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Boss\\boss x3.png"
+  },
+  "7f00dd48-a8e0-4bfe-b3e0-c1cf60d77b67": {
+    "asset": 1655619832000,
+    "meta": 1664828243901,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Enemies\\enemies x1.png"
+  },
+  "6c699a6d-0f80-46df-a5e7-909e87e6fb67": {
+    "asset": 1655619832000,
+    "meta": 1664828243925,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Enemies\\enemies x3.png"
+  },
+  "ef3a43c5-124b-4c6f-adff-86b9fc9eb033": {
+    "asset": 1655619832000,
+    "meta": 1664828243911,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Enemies\\enemies x2.png"
+  },
+  "a47d9fc8-f96c-480f-b85b-059456ed3b01": {
+    "asset": 1655619832000,
+    "meta": 1664828243910,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\NPC\\npc x1.png"
+  },
+  "99a09029-1e8f-4fe3-b363-237606a1b887": {
+    "asset": 1655619832000,
+    "meta": 1664828243916,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\NPC\\npc x2.png"
+  },
+  "2625c6bb-9b17-4139-9c7e-ab809a282f84": {
+    "asset": 1655619832000,
+    "meta": 1664828243928,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\NPC\\npc x3.png"
+  },
+  "91d7aa97-5648-4507-81c7-a634aaf727a7": {
+    "asset": 1655619832000,
+    "meta": 1664828243941,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\players blue x1.png"
+  },
+  "04b7a29a-a425-45e5-ab7f-00f6fdb633e2": {
+    "asset": 1655619832000,
+    "meta": 1664828243962,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\players blue x2.png"
+  },
+  "0683a27c-6c6c-4ea9-bcdc-08e41c6117ba": {
+    "asset": 1655619832000,
+    "meta": 1664828243956,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\players blue x3.png"
+  },
+  "64d80191-19ce-40a6-b95e-2239fffe2b54": {
+    "asset": 1655619832000,
+    "meta": 1664828243948,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\players green x1.png"
+  },
+  "5f524d14-c7c6-4f68-a2ac-d7ae97ac1383": {
+    "asset": 1655619832000,
+    "meta": 1664828243973,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\players grey x1.png"
+  },
+  "30bb5c39-dcf9-4bfe-9d27-39ec801a1e65": {
+    "asset": 1655619832000,
+    "meta": 1664828243976,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Projectiles\\5x8 Cells.txt"
+  },
+  "f2ae00cd-6f7a-4922-9fb5-e72e41a476ff": {
+    "asset": 1655619832000,
+    "meta": 1664828244023,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Props and Items\\24x22 Cells.txt"
+  },
+  "8c989005-652b-4e43-8724-1beb7988a238": {
+    "asset": 1655619832000,
+    "meta": 1664828243987,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\players green x3.png"
+  },
+  "c0083bb4-f5e7-48fd-903b-38b2cbd52f0f": {
+    "asset": 1655619832000,
+    "meta": 1664828243966,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\players green x2.png"
+  },
+  "17470b27-6813-434e-82cd-16958f16f116": {
+    "asset": 1655619832000,
+    "meta": 1664828243995,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\players grey x2.png"
+  },
+  "316a086e-5184-43ea-83ca-61792f729807": {
+    "asset": 1655619832000,
+    "meta": 1664828244015,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\players grey x3.png"
+  },
+  "b1a44efc-1517-45f2-a39d-8f0c5b865183": {
+    "asset": 1655619832000,
+    "meta": 1664828244012,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\players red x1.png"
+  },
+  "ad377a80-2783-49ee-a636-aa08604ea811": {
+    "asset": 1655619832000,
+    "meta": 1664828244010,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\players red x2.png"
+  },
+  "07d0b0f3-69bc-41a0-bcb6-c85eff58eeeb": {
+    "asset": 1655619832000,
+    "meta": 1664828244030,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Projectiles\\projectiles x1.png"
+  },
+  "43d5e4a8-8d98-4d6d-b16b-6667b5a72587": {
+    "asset": 1655619832000,
+    "meta": 1664828244037,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\UI\\20x11 Cells.txt"
+  },
+  "589c7e94-41f9-4fd7-820f-e69ca21c69d5": {
+    "asset": 1655619832000,
+    "meta": 1664828244033,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Projectiles\\projectiles x2.png"
+  },
+  "4ab16004-f23c-474d-8a00-b504b1c26e19": {
+    "asset": 1655619832000,
+    "meta": 1664828244056,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Projectiles\\projectiles x3.png"
+  },
+  "055e9a7b-b10e-4b5c-9be9-dae610299fe2": {
+    "asset": 1655619832000,
+    "meta": 1664828244045,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\players red x3.png"
+  },
+  "9a3af467-28ec-419e-8137-123c10731774": {
+    "asset": 1655619832000,
+    "meta": 1664828244069,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Props and Items\\props and items x1.png"
+  },
+  "1f1dd011-4e04-4573-bdf5-e5d4b844e712": {
+    "asset": 1655619832000,
+    "meta": 1664828244104,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\UI\\ui x2.png"
+  },
+  "7592fd3f-3237-41c3-8e37-10e2d655f261": {
+    "asset": 1655619832000,
+    "meta": 1664828244099,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\UI\\ui x1.png"
+  },
+  "cf6610bf-837f-4c98-875b-594b137beb65": {
+    "asset": 1655619832000,
+    "meta": 1664828244087,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Props and Items\\props and items x2.png"
+  },
+  "293d0e37-8cee-49d1-9c94-12a73d203636": {
+    "asset": 1655619832000,
+    "meta": 1664828244125,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Props and Items\\props and items x3.png"
+  },
+  "fe54d375-97c8-42ca-b88c-d1e881055100": {
+    "asset": 1655619832000,
+    "meta": 1664828244131,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\UI\\ui x3.png"
+  },
+  "4c96cca3-7a7d-4edc-a10d-3a2d556a26aa": {
+    "asset": 1655619832000,
+    "meta": 1664828245775,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Boss\\No Outlines\\boss x1.png"
+  },
+  "5ba3f455-bdc6-432f-aa66-61056423acea": {
+    "asset": 1655619832000,
+    "meta": 1664828245798,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Boss\\No Outlines\\boss x2.png"
+  },
+  "528ff074-9910-4330-9c81-ee2dca6facf5": {
+    "asset": 1655619832000,
+    "meta": 1664828245800,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Enemies\\No Outlines\\enemies x1.png"
+  },
+  "35193089-06ed-40d8-b695-d29566f0ebd5": {
+    "asset": 1655619832000,
+    "meta": 1664828245825,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Enemies\\No Outlines\\enemies x2.png"
+  },
+  "b768f1c9-6d45-4102-b8b2-4b9519fe5cb6": {
+    "asset": 1655619832000,
+    "meta": 1664828245857,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Boss\\No Outlines\\boss x3.png"
+  },
+  "2bd58982-8a37-4eff-93be-7a6ccca31fc9": {
+    "asset": 1655619832000,
+    "meta": 1664828245821,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\NPC\\No Outlines\\npc x1.png"
+  },
+  "85a1e9d4-c334-46ab-8f1c-8bc862144baf": {
+    "asset": 1655619832000,
+    "meta": 1664828245829,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\NPC\\No Outlines\\npc x2.png"
+  },
+  "2d7c3d9a-df40-41c5-931e-d685ba5c8ed1": {
+    "asset": 1655619832000,
+    "meta": 1664828245868,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\NPC\\No Outlines\\npc x3.png"
+  },
+  "46c19b66-8df3-4a03-befe-18930e66fbb4": {
+    "asset": 1655619832000,
+    "meta": 1664828245853,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Enemies\\No Outlines\\enemies x3.png"
+  },
+  "91a1ff94-e257-45bf-9947-dcf461c7b723": {
+    "asset": 1655619832000,
+    "meta": 1664828245860,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\No Outlines\\players blue x1.png"
+  },
+  "b4b594d0-7e4b-4578-a64b-ff0d2dd75419": {
+    "asset": 1655619832000,
+    "meta": 1664828245878,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\No Outlines\\players blue x2.png"
+  },
+  "05aae40e-49e3-4b7f-83a3-f5eb6c4b7d2e": {
+    "asset": 1655619832000,
+    "meta": 1664828245904,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\No Outlines\\players blue x3.png"
+  },
+  "780d30bb-84ca-43d5-9241-a1d920c8a031": {
+    "asset": 1655619832000,
+    "meta": 1664828245883,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\No Outlines\\players green x1.png"
+  },
+  "d28fe17a-f342-4a87-af04-9b8acc793339": {
+    "asset": 1655619832000,
+    "meta": 1664828245899,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\No Outlines\\players green x2.png"
+  },
+  "00ddc631-3782-4142-8ea2-376526e21b53": {
+    "asset": 1655619832000,
+    "meta": 1664828245896,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\No Outlines\\players grey x1.png"
+  },
+  "05d6729c-8465-46c7-b730-85de52c382c6": {
+    "asset": 1655619832000,
+    "meta": 1664828245924,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\No Outlines\\players grey x2.png"
+  },
+  "9650c940-dffb-4ffc-8ab5-d7454009849a": {
+    "asset": 1655619832000,
+    "meta": 1664828245917,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\No Outlines\\players green x3.png"
+  },
+  "1cd40520-d0c7-4f41-9917-d7766ff39bbd": {
+    "asset": 1655619832000,
+    "meta": 1664828245921,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\No Outlines\\players red x1.png"
+  },
+  "5325fe0a-cf88-4949-9dde-19182e4250c1": {
+    "asset": 1655619832000,
+    "meta": 1664828245948,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\No Outlines\\players grey x3.png"
+  },
+  "0df1711a-8ca1-4453-96ca-d1b7893b9cf0": {
+    "asset": 1655619832000,
+    "meta": 1664828245961,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\No Outlines\\players red x2.png"
+  },
+  "002d762d-3759-457a-90f6-0dcd00be2f39": {
+    "asset": 1655619832000,
+    "meta": 1664828245979,
+    "relativePath": "maps\\Tech Dungeon Roguelite - Asset Pack (v2)\\Players\\No Outlines\\players red x3.png"
+  },
+  "1bf4f47d-bbcc-4b9e-b13c-313e0e3fe8ca": {
+    "asset": 1655619832000,
+    "meta": 1664828243114,
+    "relativePath": "animation\\Player\\Virtual Guy\\Idle.anim"
+  },
+  "db0987ac-9763-4ee1-90a8-004e9f5427e7": {
+    "asset": 1655619832000,
+    "meta": 1664828243116,
+    "relativePath": "animation\\Player\\Virtual Guy\\Move.anim"
+  },
+  "5ca2ba6a-229b-4ef3-a3c0-94b15a048cd3": {
+    "asset": 1664828153512,
+    "meta": 1664828240126,
+    "relativePath": "animation\\Player"
+  },
+  "fb4f197f-aeb1-4d2b-9a04-94cca21d69bd": {
+    "asset": 1664828153504,
+    "meta": 1664828240850,
+    "relativePath": "animation\\Player\\Virtual Guy"
+  },
+  "888ee191-73f3-4cb5-900a-e9bc93be947b": {
+    "asset": 1664828153157,
+    "meta": 1664828240124,
+    "relativePath": "animation\\InteractWall"
+  },
+  "ea48120f-9741-4823-bb61-1d849be2871f": {
+    "asset": 1655619832000,
+    "meta": 1664828243089,
+    "relativePath": "animation\\InteractWall\\Wall x2\\Open.anim"
+  },
+  "4a65baf9-9fbb-48df-a038-314e9805120b": {
+    "asset": 1655619832000,
+    "meta": 1664828243039,
+    "relativePath": "animation\\InteractWall\\Wall x2\\Close.anim"
+  },
+  "2e4fb083-3f9c-4c95-936c-49be8478a964": {
+    "asset": 1664828155702,
+    "meta": 1664828240133,
+    "relativePath": "Atlas\\InteractWall"
+  },
+  "41e62ec2-6535-4b15-b516-99c680143760": {
+    "asset": 1664828155735,
+    "meta": 1664828241059,
+    "relativePath": "Atlas\\InteractWall\\Wall x2"
+  },
+  "341f1258-3cd6-49bd-b156-4fab1e82b293": {
+    "asset": 1655619832000,
+    "meta": 1664828246671,
+    "relativePath": "Atlas\\InteractWall\\Wall x2\\Wall x2.plist"
+  },
+  "2a2463ac-c91f-4c2f-b869-fb6aade36e3e": {
+    "asset": 1655619832000,
+    "meta": 1664828243384,
+    "relativePath": "Atlas\\InteractWall\\Wall x2\\Wall x2.png"
+  },
+  "887dee88-8768-416e-9d5d-0cdfa43ffd05": {
+    "asset": 1664828155697,
+    "meta": 1664828241058,
+    "relativePath": "Atlas\\InteractWall\\Wall x1"
+  },
+  "228f15e4-dd9a-43f0-8fc1-1bd965240a30": {
+    "asset": 1655619832000,
+    "meta": 1664828243087,
+    "relativePath": "animation\\InteractWall\\Wall x2\\Idle.anim"
+  },
+  "11d6345a-e089-483a-876c-7fab4d60cf6f": {
+    "asset": 1655619832000,
+    "meta": 1664828243388,
+    "relativePath": "Atlas\\InteractWall\\Wall x2\\Walltop.png"
+  },
+  "d353f15e-cf76-4381-ab52-cff9aae92fd7": {
+    "asset": 1664828153466,
+    "meta": 1664828240849,
+    "relativePath": "animation\\Player\\Pink Man"
+  },
+  "7a79ec72-fd5b-4d67-8f24-79a5d5f83518": {
+    "asset": 1655619832000,
+    "meta": 1664828243112,
+    "relativePath": "animation\\Player\\Pink Man\\Idle.anim"
+  },
+  "d1d71de2-0dd9-4a41-848f-a8e1390d6ad7": {
+    "asset": 1655619832000,
+    "meta": 1664828243113,
+    "relativePath": "animation\\Player\\Pink Man\\Move.anim"
+  },
+  "7e5bcabf-20a2-42d6-aa8f-8a36c10b5bef": {
+    "asset": 1664828153390,
+    "meta": 1664828240847,
+    "relativePath": "animation\\Player\\Mask Dude"
+  },
+  "c3ec3dcf-a925-4ea4-92dd-e7312e87ba4d": {
+    "asset": 1655619832000,
+    "meta": 1664828243110,
+    "relativePath": "animation\\Player\\Mask Dude\\Move.anim"
+  },
+  "de18a0ec-8649-46c5-9b1b-ed57a84b8034": {
+    "asset": 1655619832000,
+    "meta": 1664828243090,
+    "relativePath": "animation\\Player\\Mask Dude\\Idle.anim"
+  },
+  "67daf7d7-259b-4bde-b094-04de6d8a6ebc": {
+    "asset": 1664828153426,
+    "meta": 1664828240848,
+    "relativePath": "animation\\Player\\Ninja Frog"
+  },
+  "82dcf8f7-cd91-4cdb-acd2-c89677dd0663": {
+    "asset": 1655619832000,
+    "meta": 1664828243091,
+    "relativePath": "animation\\Player\\Ninja Frog\\Move.anim"
+  },
+  "92e06463-61dd-4f37-8aa9-c40c542ea4a4": {
+    "asset": 1655619832000,
+    "meta": 1664828243109,
+    "relativePath": "animation\\Player\\Ninja Frog\\Idle.anim"
+  },
+  "62a2d731-e8e7-49a5-9c47-609fe6f7131c": {
+    "asset": 1664828153705,
+    "meta": 1664828240127,
+    "relativePath": "Atlas\\1bit icons 24x24 Atlas"
+  },
+  "6380bb05-03a7-46c3-9052-97fd654e74fe": {
+    "asset": 1655619832000,
+    "meta": 1664828246413,
+    "relativePath": "Atlas\\1bit icons 24x24 Atlas\\1bit icons 24x24.plist"
+  },
+  "1db79e65-74e1-4bf5-9a66-f4bec856c460": {
+    "asset": 1664828154431,
+    "meta": 1664828240128,
+    "relativePath": "Atlas\\button UI 16x16 Atlas"
+  },
+  "6401f2dc-64f5-48f3-8a44-43478220b62e": {
+    "asset": 1655619832000,
+    "meta": 1664828246482,
+    "relativePath": "Atlas\\button UI 16x16 Atlas\\button UI 16x16.plist"
+  },
+  "af8377e5-ac12-44b0-8862-17a78b9c4a78": {
+    "asset": 1655619832000,
+    "meta": 1664828240979,
+    "relativePath": "Atlas\\button UI 16x16 Atlas\\button UI 16x16.png"
+  },
+  "456bd43c-e779-4689-9113-43cb3413680e": {
+    "asset": 1655619832000,
+    "meta": 1664828240976,
+    "relativePath": "Atlas\\1bit icons 24x24 Atlas\\1bit icons 24x24.png"
+  },
+  "9e95c8f6-f8b7-487f-8d1c-9ada9d7cf030": {
+    "asset": 1655619832000,
+    "meta": 1664828246665,
+    "relativePath": "Atlas\\InteractWall\\Wall x1\\Wall x1.plist"
+  },
+  "d09be0e5-a96f-44e6-ab5a-f6473123230e": {
+    "asset": 1655619832000,
+    "meta": 1664828243369,
+    "relativePath": "Atlas\\InteractWall\\Wall x1\\Wall x1.png"
+  },
+  "890f4e55-f566-449b-a312-26072d970168": {
+    "asset": 1664828153198,
+    "meta": 1664828240823,
+    "relativePath": "animation\\InteractWall\\Wall x2"
+  },
+  "66b85cf1-1a27-4258-b6d8-f561ec79d60a": {
+    "asset": 1664828153152,
+    "meta": 1664828240822,
+    "relativePath": "animation\\InteractWall\\Wall x1"
+  },
+  "a30f2b47-3b48-43d9-85d7-0c49ee39d262": {
+    "asset": 1655619832000,
+    "meta": 1664828243038,
+    "relativePath": "animation\\InteractWall\\Wall x1\\Close.anim"
+  },
+  "e4f5f662-d68f-46a6-8d38-e91f2cfa943f": {
+    "asset": 1655619832000,
+    "meta": 1664828243036,
+    "relativePath": "animation\\InteractWall\\Wall x1\\Idle.anim"
+  },
+  "724314b7-d572-488e-96ea-c37bc91ad9b1": {
+    "asset": 1655619832000,
+    "meta": 1664828243037,
+    "relativePath": "animation\\InteractWall\\Wall x1\\Open.anim"
+  },
+  "f56d1fdc-90e4-4e18-876f-9d4cbfbea115": {
+    "asset": 1655738094000,
+    "meta": 1664828240777,
+    "relativePath": "Scene\\Lobby.fire"
+  },
+  "f7990338-e9a5-4abe-9ac6-c2721bced9cd": {
+    "asset": 1664828156632,
+    "meta": 1664828240137,
+    "relativePath": "Atlas\\Props and Items Atlas"
+  },
+  "921b8e03-9a90-4c34-8e03-36fa69dfb557": {
+    "asset": 1655619832000,
+    "meta": 1664828246537,
+    "relativePath": "Atlas\\Props and Items Atlas\\set1 32x32.plist"
+  },
+  "65a4a441-2618-457b-aadf-2b1580b65657": {
+    "asset": 1655619832000,
+    "meta": 1664828246544,
+    "relativePath": "Atlas\\Props and Items Atlas\\set2 32x32.plist"
+  },
+  "fecaa852-a3e1-4d79-9b90-8ced90316e64": {
+    "asset": 1655619832000,
+    "meta": 1664828246552,
+    "relativePath": "Atlas\\Props and Items Atlas\\set3 32x32.plist"
+  },
+  "c639a927-b570-4bb1-a349-6da0a64b1c29": {
+    "asset": 1655619832000,
+    "meta": 1664828246556,
+    "relativePath": "Atlas\\Props and Items Atlas\\set4 32x32.plist"
+  },
+  "fa9121c5-9713-40eb-9794-c505b5d61e63": {
+    "asset": 1655619832000,
+    "meta": 1664828241214,
+    "relativePath": "Atlas\\Props and Items Atlas\\set1 32x32.png"
+  },
+  "b9920873-e2f4-4cbb-bf65-8d5a43f9efa6": {
+    "asset": 1655619832000,
+    "meta": 1664828241217,
+    "relativePath": "Atlas\\Props and Items Atlas\\set3 32x32.png"
+  },
+  "bfba189e-8289-475c-9812-f0d7a7de4c4e": {
+    "asset": 1655619832000,
+    "meta": 1664828241216,
+    "relativePath": "Atlas\\Props and Items Atlas\\set2 32x32.png"
+  },
+  "d3f1a389-65df-42da-a468-3807aae8f1b9": {
+    "asset": 1655619832000,
+    "meta": 1664828241241,
+    "relativePath": "Atlas\\Props and Items Atlas\\set4 32x32.png"
+  },
+  "ade1e1df-c017-4458-a091-6e1e90cd838b": {
+    "asset": 1664828153318,
+    "meta": 1664828240126,
+    "relativePath": "animation\\Object"
+  },
+  "78899885-d083-46ec-9ae8-49d86b0e435a": {
+    "asset": 1655619832000,
+    "meta": 1664828240848,
+    "relativePath": "animation\\Object\\CanGreen.anim"
+  },
+  "183aad05-c58e-4b8b-a187-5c959cfdaf7a": {
+    "asset": 1655619832000,
+    "meta": 1664828240942,
+    "relativePath": "animation\\Object\\CanPeople.anim"
+  },
+  "fa491045-e0be-441f-b094-9b5841ad10e0": {
+    "asset": 1655619832000,
+    "meta": 1664828240961,
+    "relativePath": "animation\\Object\\Computer.anim"
+  },
+  "805b5b51-865e-4748-806f-a8a1d3841fd2": {
+    "asset": 1655619832000,
+    "meta": 1664828240846,
+    "relativePath": "animation\\Object\\BlueBoard.anim"
+  },
+  "6b32ee9c-1cf2-4490-866a-082e8b87f647": {
+    "asset": 1655619832000,
+    "meta": 1664828240961,
+    "relativePath": "animation\\Object\\GreenBoard.anim"
+  },
+  "87cfa7af-0a19-4429-99e2-8d024817b5a7": {
+    "asset": 1655619832000,
+    "meta": 1664828240943,
+    "relativePath": "animation\\Object\\Television.anim"
+  },
+  "2fc27f41-42b9-4514-867e-48005b06a4e3": {
+    "asset": 1655619832000,
+    "meta": 1664828240737,
+    "relativePath": "Scene\\waiting.fire"
+  },
+  "5694b810-d4be-4512-ac29-3fc43280be98": {
+    "asset": 1664828153554,
+    "meta": 1664828240850,
+    "relativePath": "animation\\Player\\Virtual Guy Red"
+  },
+  "0dc5e2cb-f848-4b04-88da-952e68a6975b": {
+    "asset": 1655619832000,
+    "meta": 1664828243119,
+    "relativePath": "animation\\Player\\Virtual Guy Red\\Move.anim"
+  },
+  "477b8b13-517c-4892-8409-cdc389de9c02": {
+    "asset": 1655619832000,
+    "meta": 1664828243114,
+    "relativePath": "animation\\Player\\Virtual Guy Red\\Idle.anim"
+  },
+  "8e50dbdf-9e49-4547-8fbc-26648fa6e705": {
+    "asset": 1664828156272,
+    "meta": 1664828240135,
+    "relativePath": "Atlas\\Main Characters"
+  },
+  "7d94af8d-7206-49da-82b4-807039cdbb1d": {
+    "asset": 1664828156016,
+    "meta": 1664828241126,
+    "relativePath": "Atlas\\Main Characters\\Mask Dude"
+  },
+  "f61e06d3-f1d9-404f-b667-26bbf721d307": {
+    "asset": 1664828156090,
+    "meta": 1664828241126,
+    "relativePath": "Atlas\\Main Characters\\Ninja Frog"
+  },
+  "41e0bfff-8c6a-4b93-9388-40ce548b4dc8": {
+    "asset": 1664828156167,
+    "meta": 1664828241127,
+    "relativePath": "Atlas\\Main Characters\\Pink Man"
+  },
+  "5dd3b53d-44ef-40d7-b9b4-da4dba95547d": {
+    "asset": 1664828156244,
+    "meta": 1664828241129,
+    "relativePath": "Atlas\\Main Characters\\Virtual Guy"
+  },
+  "522a9459-43b8-4e37-a241-8f6dc16a9c24": {
+    "asset": 1664828156318,
+    "meta": 1664828241130,
+    "relativePath": "Atlas\\Main Characters\\Virtual Guy Red"
+  },
+  "2f62bed0-0bdc-4dfb-b65a-87ca2dd3942a": {
+    "asset": 1664828156009,
+    "meta": 1664828243354,
+    "relativePath": "Atlas\\Main Characters\\Mask Dude\\Idle"
+  },
+  "7424b113-38cd-4747-b664-43e5d8b958f3": {
+    "asset": 1664828156040,
+    "meta": 1664828243355,
+    "relativePath": "Atlas\\Main Characters\\Mask Dude\\Run"
+  },
+  "d0286755-2ee7-45cd-a96b-306b21bd1402": {
+    "asset": 1664828156084,
+    "meta": 1664828243357,
+    "relativePath": "Atlas\\Main Characters\\Ninja Frog\\Idle"
+  },
+  "0255ac53-4e57-4281-bfb4-a798186233f8": {
+    "asset": 1664828156116,
+    "meta": 1664828243358,
+    "relativePath": "Atlas\\Main Characters\\Ninja Frog\\Run"
+  },
+  "aeff6716-d1f2-497b-8b03-8974d282308c": {
+    "asset": 1664828156162,
+    "meta": 1664828243359,
+    "relativePath": "Atlas\\Main Characters\\Pink Man\\Idle"
+  },
+  "86819dc4-7e1e-4688-acf5-cd7d8d68bb19": {
+    "asset": 1664828156192,
+    "meta": 1664828243360,
+    "relativePath": "Atlas\\Main Characters\\Pink Man\\Run"
+  },
+  "a31a2f0a-572a-4e7f-ab26-39126488c706": {
+    "asset": 1664828156239,
+    "meta": 1664828243360,
+    "relativePath": "Atlas\\Main Characters\\Virtual Guy\\idle"
+  },
+  "2e0c0c36-839b-48bd-842c-7cce091b80c3": {
+    "asset": 1664828156267,
+    "meta": 1664828243362,
+    "relativePath": "Atlas\\Main Characters\\Virtual Guy\\Run"
+  },
+  "e1d64357-cb98-40b4-a5de-8878a3df36e7": {
+    "asset": 1664828156313,
+    "meta": 1664828243363,
+    "relativePath": "Atlas\\Main Characters\\Virtual Guy Red\\idle"
+  },
+  "124d6a9d-bf47-4da5-822b-d4d22054c67f": {
+    "asset": 1664828156339,
+    "meta": 1664828243364,
+    "relativePath": "Atlas\\Main Characters\\Virtual Guy Red\\Run"
+  },
+  "1ee9d329-1043-4e10-a3a2-156ca6b665c2": {
+    "asset": 1655619832000,
+    "meta": 1664828246786,
+    "relativePath": "Atlas\\Main Characters\\Mask Dude\\Idle\\Idle.plist"
+  },
+  "11a8d1f5-73d8-44b9-b325-e983be902ca7": {
+    "asset": 1655619832000,
+    "meta": 1664828246790,
+    "relativePath": "Atlas\\Main Characters\\Mask Dude\\Run\\Run.plist"
+  },
+  "873f18ff-2898-4e6e-83e5-f49612a707c9": {
+    "asset": 1655619832000,
+    "meta": 1664828246796,
+    "relativePath": "Atlas\\Main Characters\\Ninja Frog\\Idle\\PlayerIdle.plist"
+  },
+  "3f864eaf-eaf7-40ef-9142-215e92cf5181": {
+    "asset": 1655619832000,
+    "meta": 1664828246807,
+    "relativePath": "Atlas\\Main Characters\\Ninja Frog\\Run\\PlayerRun.plist"
+  },
+  "fbaa5bbf-95b1-43f5-81c1-4891fe3b5c7c": {
+    "asset": 1655619832000,
+    "meta": 1664828246814,
+    "relativePath": "Atlas\\Main Characters\\Pink Man\\Idle\\Idle.plist"
+  },
+  "0c913fdc-5a0a-4ac5-b34e-f40c63aabdb8": {
+    "asset": 1655619832000,
+    "meta": 1664828246821,
+    "relativePath": "Atlas\\Main Characters\\Pink Man\\Run\\Run.plist"
+  },
+  "e1cb9ede-974e-42f0-ac1d-49e32ae0f2c3": {
+    "asset": 1655619832000,
+    "meta": 1664828246826,
+    "relativePath": "Atlas\\Main Characters\\Virtual Guy\\idle\\PlayerIdle.plist"
+  },
+  "4801e6c7-4e01-40cd-ad15-f651866d7d4f": {
+    "asset": 1655619832000,
+    "meta": 1664828244743,
+    "relativePath": "Atlas\\Main Characters\\Mask Dude\\Idle\\Idle.png"
+  },
+  "b0eb36b0-4c38-44cf-a587-e6f03a2baa6f": {
+    "asset": 1655619832000,
+    "meta": 1664828246833,
+    "relativePath": "Atlas\\Main Characters\\Virtual Guy\\Run\\PlayerRun.plist"
+  },
+  "245c31d9-6b84-436d-b25b-c3a1a721eb00": {
+    "asset": 1655619832000,
+    "meta": 1664828244762,
+    "relativePath": "Atlas\\Main Characters\\Ninja Frog\\Idle\\PlayerIdle.png"
+  },
+  "6e99fab6-1ed4-4960-bcd8-fc5d994d66ae": {
+    "asset": 1655619832000,
+    "meta": 1664828246839,
+    "relativePath": "Atlas\\Main Characters\\Virtual Guy Red\\idle\\PlayerIdle.plist"
+  },
+  "d4658b7b-7975-441f-b73f-49d947f0d7cf": {
+    "asset": 1655619832000,
+    "meta": 1664828244748,
+    "relativePath": "Atlas\\Main Characters\\Mask Dude\\Run\\Run.png"
+  },
+  "d4159ed3-27b8-408a-bd0b-d945338392cb": {
+    "asset": 1655619832000,
+    "meta": 1664828244782,
+    "relativePath": "Atlas\\Main Characters\\Virtual Guy\\idle\\PlayerIdle.png"
+  },
+  "b10ac665-a7cd-4444-8745-e2e79b77ca89": {
+    "asset": 1655619832000,
+    "meta": 1664828246844,
+    "relativePath": "Atlas\\Main Characters\\Virtual Guy Red\\Run\\PlayerRun.plist"
+  },
+  "41fbb4f4-e099-4c59-82f5-6989a807afa6": {
+    "asset": 1655619832000,
+    "meta": 1664828244757,
+    "relativePath": "Atlas\\Main Characters\\Ninja Frog\\Run\\PlayerRun.png"
+  },
+  "37b53b9e-53a5-4030-b7af-2b07bc97bcc0": {
+    "asset": 1655619832000,
+    "meta": 1664828244778,
+    "relativePath": "Atlas\\Main Characters\\Pink Man\\Idle\\Idle.png"
+  },
+  "d59d5d67-f2c6-4ba7-95d6-6390097a456a": {
+    "asset": 1655619832000,
+    "meta": 1664828244794,
+    "relativePath": "Atlas\\Main Characters\\Virtual Guy\\Run\\PlayerRun.png"
+  },
+  "1bd6c43c-cd58-44c9-be6b-5ceafbd02617": {
+    "asset": 1655619832000,
+    "meta": 1664828244780,
+    "relativePath": "Atlas\\Main Characters\\Pink Man\\Run\\Run.png"
+  },
+  "f3491651-90ec-49a6-b414-16890d3c66c4": {
+    "asset": 1655619832000,
+    "meta": 1664828244816,
+    "relativePath": "Atlas\\Main Characters\\Virtual Guy Red\\idle\\PlayerIdle.png"
+  },
+  "06e14cfb-712b-430a-a59d-c548211a53d0": {
+    "asset": 1655619832000,
+    "meta": 1664828244811,
+    "relativePath": "Atlas\\Main Characters\\Virtual Guy Red\\Run\\PlayerRun.png"
+  },
+  "a194472a-abc9-47e1-b490-c4820e925ec1": {
+    "asset": 1664828162533,
+    "meta": 1664828240479,
+    "relativePath": "Script\\GameManager"
+  },
+  "77b8478d-c0ef-4518-adb0-4253fadc1d15": {
+    "asset": 1655619832000,
+    "meta": 1664828240331,
+    "relativePath": "Scene\\GameStage3.fire"
+  },
+  "2dfe5bce-d3be-4f59-b0f5-fe16fe3b4c8a": {
+    "asset": 1655619832000,
+    "meta": 1664828240315,
+    "relativePath": "Prefab\\IW top.prefab"
+  },
+  "9d81acee-f5d6-403b-b194-9d62b92c151a": {
+    "asset": 1655619832000,
+    "meta": 1664828242958,
+    "relativePath": "Script\\GameManager\\GameManagerS3.ts"
+  },
+  "f35ddab9-89d5-4185-9a68-3646cde22d95": {
+    "asset": 1655619832000,
+    "meta": 1664828240291,
+    "relativePath": "maps\\tileset x2.png"
+  },
+  "a3b7ef17-c734-4e8e-b376-b48a8ca3fb87": {
+    "asset": 1655619832000,
+    "meta": 1664828240342,
+    "relativePath": "maps\\tileset x3.png"
+  },
+  "0d1a1a10-0fcb-4241-b5e8-d94d2d8e92f5": {
+    "asset": 1655619832000,
+    "meta": 1664828246174,
+    "relativePath": "maps\\mapGame4.tmx"
+  },
+  "a384098d-ab14-409c-a1e1-01c8a1c900b2": {
+    "asset": 1655619832000,
+    "meta": 1664828246170,
+    "relativePath": "maps\\mapGame3.tmx"
+  },
+  "3a4b67c8-bd37-4aec-bb60-2947b7d21431": {
+    "asset": 1664828162309,
+    "meta": 1664828240477,
+    "relativePath": "Script\\Game1Object"
+  },
+  "00d813d6-d8bc-4ff7-bd7d-df9539ee1110": {
+    "asset": 1655619832000,
+    "meta": 1664828246522,
+    "relativePath": "Atlas\\Props and Items Atlas\\ground x1.plist"
+  },
+  "5ff6f0af-d23c-4757-8031-4d3e729a34e1": {
+    "asset": 1655619832000,
+    "meta": 1664828241212,
+    "relativePath": "Atlas\\Props and Items Atlas\\ground x1.png"
+  },
+  "f591f91c-bd11-4f3a-8c5f-3e5c9c94a371": {
+    "asset": 1655619832000,
+    "meta": 1664828240269,
+    "relativePath": "Prefab\\ChangingGround.prefab"
+  },
+  "2772ca46-141e-47d2-804a-51619fde91e5": {
+    "asset": 1655619832000,
+    "meta": 1664828240304,
+    "relativePath": "maps\\Tileset.png"
+  },
+  "5c120990-d8be-4d8b-b92c-0cfa68f1adcb": {
+    "asset": 1664828156450,
+    "meta": 1664828240135,
+    "relativePath": "Atlas\\Picture"
+  },
+  "981c8bf1-21bf-46e0-a25b-f6866487c41a": {
+    "asset": 1655619832000,
+    "meta": 1664828241168,
+    "relativePath": "Atlas\\Picture\\blackbg.png"
+  },
+  "08d5993d-3b39-4142-bf0e-465fb8fbb085": {
+    "asset": 1655619832000,
+    "meta": 1664828242142,
+    "relativePath": "Script\\Game1Object\\ChangingGround.ts"
+  },
+  "99e1ad49-b8c5-49ff-8671-f87d8a535ca7": {
+    "asset": 1664828154887,
+    "meta": 1664828240131,
+    "relativePath": "Atlas\\GUI"
+  },
+  "ba3feff8-e7e6-4aba-aa07-df283b558031": {
+    "asset": 1664828155465,
+    "meta": 1664828240998,
+    "relativePath": "Atlas\\GUI\\GUI"
+  },
+  "ff5563b4-39ab-47eb-98dd-0194999ba44a": {
+    "asset": 1664828154938,
+    "meta": 1664828243328,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_EPS"
+  },
+  "aa648b73-ab44-4f6c-9402-50a5f6309da1": {
+    "asset": 1664828154961,
+    "meta": 1664828243330,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PDF"
+  },
+  "33eeaacf-e69d-455c-8c23-7d0ffb8d1730": {
+    "asset": 1664828155456,
+    "meta": 1664828243332,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG"
+  },
+  "c21e8aff-0e91-4fd9-be66-38f49bc8edee": {
+    "asset": 1664828155497,
+    "meta": 1664828243334,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_SVG"
+  },
+  "401a2e43-3a6d-4e91-9308-526fa9396b2a": {
+    "asset": 1655619832000,
+    "meta": 1664828244306,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g2062.png"
+  },
+  "3c685e53-1f70-4f11-a2f4-c8234d5bebd3": {
+    "asset": 1655619832000,
+    "meta": 1664828244321,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g22222.png"
+  },
+  "71ed1074-8ace-4d91-be52-a8b9980940f2": {
+    "asset": 1655619832000,
+    "meta": 1664828244301,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g2062-4.png"
+  },
+  "67a72701-940d-4263-a9b7-7fbe570761ba": {
+    "asset": 1655619832000,
+    "meta": 1664828244308,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PDF\\GUI_Ouva.pdf"
+  },
+  "268a4165-2a9c-4fd6-9ee8-7d79f7770ab8": {
+    "asset": 1655619832000,
+    "meta": 1664828244316,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g22208.png"
+  },
+  "f1778f92-d15c-4199-96ce-ef9f681f4c38": {
+    "asset": 1655619832000,
+    "meta": 1664828244314,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g22242.png"
+  },
+  "90399960-67ce-4827-8bcf-1dbf10783764": {
+    "asset": 1655619832000,
+    "meta": 1664828244335,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g22256.png"
+  },
+  "76c97049-e2c7-47bc-a39c-c13004dd0b33": {
+    "asset": 1655619832000,
+    "meta": 1664828244358,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g22494.png"
+  },
+  "a040b63b-f4a9-4a73-b7df-b14bd7559bf8": {
+    "asset": 1655619832000,
+    "meta": 1664828244353,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g22286.png"
+  },
+  "b807c417-1294-4c5e-a81a-e671a1109741": {
+    "asset": 1655619832000,
+    "meta": 1664828244357,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g22300.png"
+  },
+  "365e918d-b920-4889-b0a0-84bcd8d1abef": {
+    "asset": 1655619832000,
+    "meta": 1664828244377,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g22686.png"
+  },
+  "08109f91-f4c1-42ea-9ae9-92b907fe8196": {
+    "asset": 1655619832000,
+    "meta": 1664828244369,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g22575.png"
+  },
+  "6694f54e-a281-4a2c-bbb5-1badb3a6c9f0": {
+    "asset": 1655619832000,
+    "meta": 1664828244390,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g22823.png"
+  },
+  "a6cdaea2-e475-4044-bb02-e619b8ab1191": {
+    "asset": 1655619832000,
+    "meta": 1664828244403,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g22907.png"
+  },
+  "eaef6e32-ac94-49f4-a6cc-5b5d21f47a58": {
+    "asset": 1655619832000,
+    "meta": 1664828244415,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g22984.png"
+  },
+  "5bdfcf96-cbf1-4a3d-b340-cefade6259bc": {
+    "asset": 1655619832000,
+    "meta": 1664828244414,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g22976.png"
+  },
+  "6d07c8fb-e24b-4422-acfc-206340b25584": {
+    "asset": 1655619832000,
+    "meta": 1664828244405,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g22958.png"
+  },
+  "16633c31-e339-4466-8921-79ddfc9f6e22": {
+    "asset": 1655619832000,
+    "meta": 1664828244419,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g22992.png"
+  },
+  "c33e7edc-9e40-4597-874b-cf690d3ce042": {
+    "asset": 1655619832000,
+    "meta": 1664828244439,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g23000.png"
+  },
+  "d526873b-da71-4531-b429-8accefb51b9a": {
+    "asset": 1655619832000,
+    "meta": 1664828244454,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g23024.png"
+  },
+  "b3c93011-4fbd-4bf6-82cc-65bea3697692": {
+    "asset": 1655619832000,
+    "meta": 1664828244458,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g23008.png"
+  },
+  "aee37adf-cdf5-4a56-9b1c-cddc743cc1d5": {
+    "asset": 1655619832000,
+    "meta": 1664828244418,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_EPS\\GUI_Ouva.eps"
+  },
+  "ef7459ce-4ff5-4fe1-8963-01251d160db1": {
+    "asset": 1655619832000,
+    "meta": 1664828244447,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g23016.png"
+  },
+  "23c225e6-3f55-4740-9a3c-7c9b29ba8402": {
+    "asset": 1655619832000,
+    "meta": 1664828244469,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g23032.png"
+  },
+  "a8046165-cae4-4e89-8aa9-ae4828818cd4": {
+    "asset": 1655619832000,
+    "meta": 1664828244475,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g23040.png"
+  },
+  "767561fe-7210-40d5-ae54-4ad80abe114f": {
+    "asset": 1655619832000,
+    "meta": 1664828244467,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g23048.png"
+  },
+  "f087eb3b-06d7-4274-99cd-771bcc1a6438": {
+    "asset": 1655619832000,
+    "meta": 1664828244500,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g23064.png"
+  },
+  "ccb393e4-6d0b-49c6-81ea-d76c007e07fa": {
+    "asset": 1655619832000,
+    "meta": 1664828244502,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g23056.png"
+  },
+  "735e5227-fe78-4cbb-8637-d33d8b05e69f": {
+    "asset": 1655619832000,
+    "meta": 1664828244510,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g23072.png"
+  },
+  "6b5d531e-cb31-4303-9a63-5cb6e34aa956": {
+    "asset": 1655619832000,
+    "meta": 1664828244521,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g23154.png"
+  },
+  "f6591891-c986-467c-9f5e-7dbb88ee2cb2": {
+    "asset": 1655619832000,
+    "meta": 1664828244519,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g23167.png"
+  },
+  "2f53de0d-dbe5-4bdc-96cb-452a742ac710": {
+    "asset": 1655619832000,
+    "meta": 1664828244522,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g23171.png"
+  },
+  "1d2cd4aa-50a5-4bcd-b1a5-fc1fab1db7d1": {
+    "asset": 1655619832000,
+    "meta": 1664828244565,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g23175.png"
+  },
+  "0039f408-a2d1-4724-8185-0fdc82fc8559": {
+    "asset": 1655619832000,
+    "meta": 1664828244590,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g3331.png"
+  },
+  "6d7a4008-593d-4f7e-8855-9b666ad461c4": {
+    "asset": 1655619832000,
+    "meta": 1664828244573,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g3434.png"
+  },
+  "9b5ed495-f77e-45e9-9c0e-4918eb3bdffa": {
+    "asset": 1655619832000,
+    "meta": 1664828244606,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g3442.png"
+  },
+  "59d4d844-ac34-4766-84aa-608d7221ad48": {
+    "asset": 1655619832000,
+    "meta": 1664828244566,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g3393.png"
+  },
+  "08088d29-e2e4-4512-9857-c401776d87ff": {
+    "asset": 1655619832000,
+    "meta": 1664828244618,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g3483.png"
+  },
+  "464eb5d2-b259-42a8-8fb1-fc88c3d2dbc9": {
+    "asset": 1655619832000,
+    "meta": 1664828244628,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g3460.png"
+  },
+  "d6f15852-b530-4f67-bc1e-a268dff92341": {
+    "asset": 1655619832000,
+    "meta": 1664828244641,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g3826.png"
+  },
+  "8465964c-18b6-4057-9ac0-3f15e42ed7d0": {
+    "asset": 1664828155917,
+    "meta": 1664828240134,
+    "relativePath": "Atlas\\Login"
+  },
+  "807d9b61-c560-405f-b9d9-253e3904e6a5": {
+    "asset": 1655619832000,
+    "meta": 1664828244594,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g22720.png"
+  },
+  "1909b27b-1346-4d52-9cb3-c749f4fac9ca": {
+    "asset": 1655619832000,
+    "meta": 1664828244655,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g3882.png"
+  },
+  "e223debc-c570-4a5a-b43f-7a5adfd86ba8": {
+    "asset": 1655619832000,
+    "meta": 1664828244728,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g4346.png"
+  },
+  "87496d03-f8cf-4592-8784-dde7aa91f7ef": {
+    "asset": 1655619832000,
+    "meta": 1664828244682,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g3913.png"
+  },
+  "8945f5be-953d-4909-8114-fe37e22a0ede": {
+    "asset": 1655619832000,
+    "meta": 1664828244669,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\path1825.png"
+  },
+  "1c21a75a-f153-40a4-a326-8fa2f53006f1": {
+    "asset": 1655619832000,
+    "meta": 1664828244730,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\rect7789.png"
+  },
+  "ade83d6f-51f1-4b64-9790-d6341045fce6": {
+    "asset": 1655619832000,
+    "meta": 1664828244768,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_SVG\\GUI_Ouva.svg"
+  },
+  "f0e9f2d7-3459-45fc-9e56-b6939123b29d": {
+    "asset": 1655619832000,
+    "meta": 1664828244724,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g23136.png"
+  },
+  "1eab975b-3e23-4bd2-83c1-1cc9995535f1": {
+    "asset": 1655619832000,
+    "meta": 1664828241089,
+    "relativePath": "Atlas\\Login\\6f9fa4d7fb57793cf819f30b381c9757.png"
+  },
+  "90decc7f-3bd8-4910-966b-0b88fb6b37e2": {
+    "asset": 1655619832000,
+    "meta": 1664828241102,
+    "relativePath": "Atlas\\Login\\Account.png"
+  },
+  "2caeda31-b806-48c0-858b-7ad896566dc8": {
+    "asset": 1655619832000,
+    "meta": 1664828241114,
+    "relativePath": "Atlas\\Login\\b99a5cf94578116626ce1c649b253fa7.png"
+  },
+  "0e93133c-3d18-42ac-a5da-41b5c5b68374": {
+    "asset": 1655619832000,
+    "meta": 1664828241116,
+    "relativePath": "Atlas\\Login\\cab3ae05408bd37669c7895c9bd4ca6f.png"
+  },
+  "9a387576-1e24-404a-ac24-451aeab3979e": {
+    "asset": 1655619832000,
+    "meta": 1664828241112,
+    "relativePath": "Atlas\\Login\\EXIT_hover.png"
+  },
+  "b68aed9f-7c5c-43d5-aca1-e619e55f845d": {
+    "asset": 1655619832000,
+    "meta": 1664828241115,
+    "relativePath": "Atlas\\Login\\EXIT.png"
+  },
+  "5a445e9e-c335-42e6-816f-0dff8ef020ea": {
+    "asset": 1655619832000,
+    "meta": 1664828241123,
+    "relativePath": "Atlas\\Login\\ezgif.com-gif-maker.png"
+  },
+  "4a02d8bb-7f8f-46ba-9e91-79f5cf824045": {
+    "asset": 1655619832000,
+    "meta": 1664828244808,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g3363.png"
+  },
+  "6931f763-147d-4564-8c80-0847d471f05d": {
+    "asset": 1655619832000,
+    "meta": 1664828241137,
+    "relativePath": "Atlas\\Login\\LOGIN_hover.png"
+  },
+  "0ea31237-b516-450d-87f1-5254cdba5066": {
+    "asset": 1655619832000,
+    "meta": 1664828241125,
+    "relativePath": "Atlas\\Login\\form.png"
+  },
+  "a6dfa5e4-e7e1-490f-a92a-fe06a746a6e6": {
+    "asset": 1655619832000,
+    "meta": 1664828241144,
+    "relativePath": "Atlas\\Login\\Password.png"
+  },
+  "4b0310e8-2a5a-442f-83e1-89b34825ac5e": {
+    "asset": 1655619832000,
+    "meta": 1664828241142,
+    "relativePath": "Atlas\\Login\\SignIn_hover.png"
+  },
+  "8e9597a8-9f01-413e-8ff5-ad50429e4296": {
+    "asset": 1655619832000,
+    "meta": 1664828244875,
+    "relativePath": "Atlas\\GUI\\GUI\\GUI_PNG\\g3772.png"
+  },
+  "d9ffbd12-42df-47d6-831a-2620c5e52593": {
+    "asset": 1664828154225,
+    "meta": 1664828240944,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements"
+  },
+  "23ba02f3-34e6-4f1c-b7a3-7d0a4d2e8540": {
+    "asset": 1664828154320,
+    "meta": 1664828240944,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Main Game(Example)"
+  },
+  "e15825f9-13ad-4e58-b27e-b79e00b4d8c0": {
+    "asset": 1664828154390,
+    "meta": 1664828240947,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Selection BTN(Example)"
+  },
+  "e847cb5d-8eba-49a6-ad3c-03b841e6917a": {
+    "asset": 1655619832000,
+    "meta": 1664828240990,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\PUT A RATING!.jpg"
+  },
+  "d3b0d8d2-f8c4-47cd-bb31-0f7ca7ca5709": {
+    "asset": 1655619832000,
+    "meta": 1664828243228,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\ArrowRight.png"
+  },
+  "f9b58587-562c-4565-a6d8-80e7e470add5": {
+    "asset": 1655619832000,
+    "meta": 1664828243225,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\ArrowLeft.png"
+  },
+  "582a59de-2b23-4087-9872-65b6ef2ee2f2": {
+    "asset": 1655619832000,
+    "meta": 1664828243239,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\IconD01.png"
+  },
+  "57ef1afd-ceb0-4838-ac2e-7de8cd4058f3": {
+    "asset": 1655619832000,
+    "meta": 1664828241001,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Thank you!.jpg"
+  },
+  "6c648e19-ca88-4cf2-b634-15a132972a51": {
+    "asset": 1655619832000,
+    "meta": 1664828243233,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\BlockInformation.png"
+  },
+  "bc886d34-3015-41dd-90b8-310733b4ba75": {
+    "asset": 1655619832000,
+    "meta": 1664828243249,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\IconD02.png"
+  },
+  "931bf7a8-1b0e-4eab-b69d-b5a20228bb07": {
+    "asset": 1655619832000,
+    "meta": 1664828243256,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\IconD03.png"
+  },
+  "43cdf5dc-d21d-4653-af31-29a5d25f36c3": {
+    "asset": 1655619832000,
+    "meta": 1664828243255,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\IconD05.png"
+  },
+  "92447a86-1ee2-4e48-8e87-7c49ab056e4e": {
+    "asset": 1655619832000,
+    "meta": 1664828243250,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\IconD04.png"
+  },
+  "3bad0d85-aacf-40b3-8a77-1b983a3e14c6": {
+    "asset": 1655619832000,
+    "meta": 1664828243257,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\IconD06.png"
+  },
+  "13524fd5-164a-4740-87be-3a050894d74b": {
+    "asset": 1655619832000,
+    "meta": 1664828243266,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\IconD08.png"
+  },
+  "31ae3b76-16d9-48a1-89b4-a9d0759d3441": {
+    "asset": 1655619832000,
+    "meta": 1664828243265,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\IconD07.png"
+  },
+  "a89494dc-6232-48ae-9616-36f4a71651f1": {
+    "asset": 1655619832000,
+    "meta": 1664828243288,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\IconD10.png"
+  },
+  "39b0b2f6-5f89-4ca1-8e0e-f0a397595c87": {
+    "asset": 1655619832000,
+    "meta": 1664828243269,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\IconD09.png"
+  },
+  "d25ad0e6-9ae8-4e48-994a-770babaff912": {
+    "asset": 1655619832000,
+    "meta": 1664828243289,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\IconD12.png"
+  },
+  "d7077539-67ec-4be2-963b-6bfad37f217c": {
+    "asset": 1655619832000,
+    "meta": 1664828243279,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\IconD11.png"
+  },
+  "71ea9568-035e-40a1-9472-07596dc95fed": {
+    "asset": 1655619832000,
+    "meta": 1664828243291,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\IconD14.png"
+  },
+  "9a5f9146-47f8-4fd3-91a7-6c2d120b38cb": {
+    "asset": 1655619832000,
+    "meta": 1664828243282,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\IconD13.png"
+  },
+  "ed7cab5d-9db6-4c78-aa06-f667bd80317e": {
+    "asset": 1655619832000,
+    "meta": 1664828243293,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\PanelTitleSettings.png"
+  },
+  "f5ea74f1-62e2-4ba5-8079-579fb0d1631e": {
+    "asset": 1655619832000,
+    "meta": 1664828243294,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Elements\\IconD15.png"
+  },
+  "9941ae19-9811-4afe-b046-9f3d5b7b5541": {
+    "asset": 1655619832000,
+    "meta": 1664828243298,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Main Game(Example)\\BqMain.png"
+  },
+  "f8e73460-908b-48a3-96d1-7cd9b3194a4d": {
+    "asset": 1655619832000,
+    "meta": 1664828243307,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Main Game(Example)\\Btn01.png"
+  },
+  "05e0cd5f-a10a-4d72-8bef-2623a26e9a13": {
+    "asset": 1655619832000,
+    "meta": 1664828243320,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Main Game(Example)\\Btn02.png"
+  },
+  "ce3fa503-d19b-48f3-8191-0971aaa8715c": {
+    "asset": 1655619832000,
+    "meta": 1664828243317,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Main Game(Example)\\Btn03.png"
+  },
+  "0ab2d62d-ecc3-41c2-91f7-2afa97db3698": {
+    "asset": 1655619832000,
+    "meta": 1664828243323,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Main Game(Example)\\Btn05.png"
+  },
+  "a5d2a88f-f43f-4316-b012-38984fceaea6": {
+    "asset": 1655619832000,
+    "meta": 1664828243319,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Main Game(Example)\\Btn04.png"
+  },
+  "15dbbc4a-dee3-4dae-99ea-6e4e6243e5b3": {
+    "asset": 1655619832000,
+    "meta": 1664828243322,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Main Game(Example)\\Btn06.png"
+  },
+  "518822dc-2b6f-4104-babe-b075669c3ba5": {
+    "asset": 1655619832000,
+    "meta": 1664828243325,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Main Game(Example)\\Logo.png"
+  },
+  "54d153e6-9b09-4b07-9d59-643ec4ce64d2": {
+    "asset": 1655619832000,
+    "meta": 1664828243348,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Selection BTN(Example)\\HeroCard2.png"
+  },
+  "afac7e3c-77ed-4244-bca7-29351297cdcb": {
+    "asset": 1655619832000,
+    "meta": 1664828243353,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Selection BTN(Example)\\Icon01.png"
+  },
+  "f05b7302-49e2-4af7-b844-5f85e1bcab10": {
+    "asset": 1655619832000,
+    "meta": 1664828243352,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Selection BTN(Example)\\HeroCard.png"
+  },
+  "667d8b99-e4ff-41fb-8291-3683f4cb832b": {
+    "asset": 1655619832000,
+    "meta": 1664828243362,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Selection BTN(Example)\\Icon02.png"
+  },
+  "cc49d56c-2f07-4c45-87e8-77ae6d0116a2": {
+    "asset": 1655619832000,
+    "meta": 1664828243356,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Selection BTN(Example)\\Icon03.png"
+  },
+  "3570825d-25bb-4a8f-b9f6-0349b23e8dac": {
+    "asset": 1655619832000,
+    "meta": 1664828243358,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Selection BTN(Example)\\IconStatic.png"
+  },
+  "19000b92-5c5a-4b93-abc5-7ae2e32d7e7a": {
+    "asset": 1655619832000,
+    "meta": 1664828243146,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\ArrowTop.png"
+  },
+  "e496d1c1-420f-4ac4-aef4-f1e42e289d5b": {
+    "asset": 1655619832000,
+    "meta": 1664828243150,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\BtnBack.png"
+  },
+  "4de15857-572e-4f85-8af0-572050d65d72": {
+    "asset": 1655619832000,
+    "meta": 1664828243157,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\BtnBack_hover.png"
+  },
+  "263acb3f-9351-4e51-bb57-84621afd63cb": {
+    "asset": 1655619832000,
+    "meta": 1664828243149,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\BqPanelBotton.png"
+  },
+  "51cfaa4b-6928-4bf1-baf9-9a4b90f759f8": {
+    "asset": 1655619832000,
+    "meta": 1664828243173,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\Background.jpg"
+  },
+  "339a28d4-5741-4027-a9b9-bc002b61c404": {
+    "asset": 1655619832000,
+    "meta": 1664828243163,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\BtnDefault.png"
+  },
+  "534f66fd-5dc4-43bc-a9ca-90030afe376b": {
+    "asset": 1655619832000,
+    "meta": 1664828243161,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\BtnNext.png"
+  },
+  "90f8e16b-69ad-4762-b097-c45c799051dc": {
+    "asset": 1655619832000,
+    "meta": 1664828243188,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\Icon01.png"
+  },
+  "2db22f73-7d76-4b49-87a1-d7476fcf673a": {
+    "asset": 1655619832000,
+    "meta": 1664828243187,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\Icon02.png"
+  },
+  "d2cabb9f-0413-4083-9868-0ddc9ab8b713": {
+    "asset": 1655619832000,
+    "meta": 1664828243162,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\BtnNext_hover.png"
+  },
+  "f235581a-4ad4-4804-a3e1-fde96a5c79ea": {
+    "asset": 1655619832000,
+    "meta": 1664828243185,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\Icon03.png"
+  },
+  "a56347b3-6b9c-43e4-a272-c7b19c9b6f78": {
+    "asset": 1655619832000,
+    "meta": 1664828243197,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\Icon04.png"
+  },
+  "29754495-c912-4016-b9a8-5b59cd2b1ade": {
+    "asset": 1655619832000,
+    "meta": 1664828243189,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\Icon05.png"
+  },
+  "be7478f1-8992-4493-b240-c6974f6cdf03": {
+    "asset": 1655619832000,
+    "meta": 1664828243191,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\ItemDisable.png"
+  },
+  "e8889b6b-c120-4b13-85a7-61f27ebc9c15": {
+    "asset": 1655619832000,
+    "meta": 1664828243192,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\ItemEnable.png"
+  },
+  "6279fe92-b130-4c90-ad00-ed5aa18050b6": {
+    "asset": 1655619832000,
+    "meta": 1664828243215,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\Logo.png"
+  },
+  "60d6f7ef-b744-4764-b737-c538536372b1": {
+    "asset": 1655619832000,
+    "meta": 1664828243216,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\ScrollBar.png"
+  },
+  "295f8fdf-1722-48bc-afe6-4a22976306dc": {
+    "asset": 1655619832000,
+    "meta": 1664828243223,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\Slider.png"
+  },
+  "b079cb3e-408a-4cc6-b4b8-70b7f7caa230": {
+    "asset": 1655619832000,
+    "meta": 1664828241321,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\Sci-Fi UI (Use Photoshop).psd"
+  },
+  "1f3123a7-6b88-45f6-83b0-ba7851c7d3d4": {
+    "asset": 1655619832000,
+    "meta": 1664828243227,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\TopMenu.png"
+  },
+  "7579279e-af21-4298-925c-88ef3f017a28": {
+    "asset": 1655619832000,
+    "meta": 1664828243217,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement\\TopMenu2.png"
+  },
+  "eed7841e-00a9-4a24-98dd-a4a17ed661b0": {
+    "asset": 1655619832000,
+    "meta": 1664828241218,
+    "relativePath": "Atlas\\Picture\\space.jpg"
+  },
+  "34f53971-74ed-418b-9d00-9e07253d261c": {
+    "asset": 1655649410000,
+    "meta": 1664828240679,
+    "relativePath": "Scene\\log_in.fire"
+  },
+  "3de69b6a-4534-4037-9d3d-2ef55ce37c2f": {
+    "asset": 1655619832000,
+    "meta": 1664828240323,
+    "relativePath": "maps\\TX Props.png"
+  },
+  "24a1d0fd-6426-4e46-acec-a4267b644068": {
+    "asset": 1655619832000,
+    "meta": 1664828240213,
+    "relativePath": "maps\\button UI x2.png"
+  },
+  "b747ef84-26f2-4716-a606-f87a47779fb2": {
+    "asset": 1655619832000,
+    "meta": 1664828240298,
+    "relativePath": "maps\\props and items x3.png"
+  },
+  "4c705e98-905b-44f9-b1e6-d6a7e7e346ad": {
+    "asset": 1655619832000,
+    "meta": 1664828240243,
+    "relativePath": "maps\\Interiors_free_32x32.png"
+  },
+  "67c30ee4-a724-4067-b816-a992c696d2b8": {
+    "asset": 1655619832000,
+    "meta": 1664828241153,
+    "relativePath": "Atlas\\Login\\space game online.png"
+  },
+  "acefbbe4-364e-4b6b-addf-ce7e9566cf88": {
+    "asset": 1655619832000,
+    "meta": 1664828241138,
+    "relativePath": "Atlas\\Login\\mutiplayerText.png"
+  },
+  "a1d59a03-2876-4336-8da6-8da2c7ff6649": {
+    "asset": 1655619832000,
+    "meta": 1664828240597,
+    "relativePath": "Scene\\GameStage6.fire"
+  },
+  "5fc0e8d0-044e-472a-ad25-edd1bf702306": {
+    "asset": 1655619832000,
+    "meta": 1664828240962,
+    "relativePath": "animation\\Object\\TV.anim"
+  },
+  "e1a218c9-9884-47ef-9aa7-bddec2ba951f": {
+    "asset": 1664828162332,
+    "meta": 1664828240477,
+    "relativePath": "Script\\Game2Object"
+  },
+  "d4810289-0c72-47ca-a86b-d54ee4935e03": {
+    "asset": 1655619832000,
+    "meta": 1664828246186,
+    "relativePath": "maps\\mapGhost.tmx"
+  },
+  "ce8278f0-9c6d-4c17-8332-424283136656": {
+    "asset": 1664828154326,
+    "meta": 1664828240128,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01"
+  },
+  "49891abc-35f3-489a-9418-9ac71a2f8746": {
+    "asset": 1664828154034,
+    "meta": 1664828240943,
+    "relativePath": "Atlas\\Assets Wenrexa UI Sci-Fi Minimalism 01\\CommonElement"
+  },
+  "06f3b7a2-2b13-44bd-b59f-df8eddbe818f": {
+    "asset": 1655619832000,
+    "meta": 1664828240821,
+    "relativePath": "Script\\UImanager.ts"
+  },
+  "36e218aa-b6e0-480b-aa0e-b1206ca900fe": {
+    "asset": 1664828154513,
+    "meta": 1664828240129,
+    "relativePath": "Atlas\\card"
+  },
+  "ad9b3097-7277-4f1c-92b8-5802b1d3ee78": {
+    "asset": 1664828162461,
+    "meta": 1664828240478,
+    "relativePath": "Script\\Game5Object"
+  },
+  "ec157313-0e91-4191-8940-97d350bdb096": {
+    "asset": 1664828158202,
+    "meta": 1664828240137,
+    "relativePath": "Atlas\\Sci-fi"
+  },
+  "af8f15d0-42b8-4136-91b0-cd38844769cc": {
+    "asset": 1664828156740,
+    "meta": 1664828241213,
+    "relativePath": "Atlas\\Sci-fi\\doorAnimated"
+  },
+  "6a35a0e0-6557-421c-acda-a450d27ea55c": {
+    "asset": 1664828157338,
+    "meta": 1664828241215,
+    "relativePath": "Atlas\\Sci-fi\\png"
+  },
+  "1477a0e4-659d-42af-bc24-397dc77f07f3": {
+    "asset": 1664828158466,
+    "meta": 1664828241217,
+    "relativePath": "Atlas\\Sci-fi\\vector"
+  },
+  "9c04ddb1-5523-45c6-8190-3bc8a6026cb6": {
+    "asset": 1664828157222,
+    "meta": 1664828243381,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects"
+  },
+  "326a4e31-2e2d-46e2-af73-4f195b3e62f9": {
+    "asset": 1664828158192,
+    "meta": 1664828243382,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles"
+  },
+  "88dbe130-1052-4f10-b4f9-7d0b13bfe030": {
+    "asset": 1664828158299,
+    "meta": 1664828243385,
+    "relativePath": "Atlas\\Sci-fi\\vector\\ai"
+  },
+  "fcf55558-177f-418f-932b-c724aff77e49": {
+    "asset": 1664828158376,
+    "meta": 1664828243385,
+    "relativePath": "Atlas\\Sci-fi\\vector\\cdr"
+  },
+  "31fb0f9a-2f0f-4fef-b218-c14bb0fb20ca": {
+    "asset": 1664828158457,
+    "meta": 1664828243386,
+    "relativePath": "Atlas\\Sci-fi\\vector\\eps"
+  },
+  "a17b2682-b2b4-4cd5-872a-eea8bdd34e10": {
+    "asset": 1664828158640,
+    "meta": 1664828243387,
+    "relativePath": "Atlas\\Sci-fi\\vector\\svg"
+  },
+  "055d0484-64e4-4bba-8550-5b58f37afa1a": {
+    "asset": 1664828157042,
+    "meta": 1664828244781,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Barrel"
+  },
+  "0f017d89-8f36-4e25-ae02-935f93d0f683": {
+    "asset": 1655619832000,
+    "meta": 1655619832000,
+    "relativePath": "Atlas\\Sci-fi\\doorAnimated\\Door.anim"
+  },
+  "44a932b0-4e97-4c82-99e7-08ebe802e9c3": {
+    "asset": 1664828157096,
+    "meta": 1664828244809,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Door"
+  },
+  "e518aaf3-7ebb-476f-9472-0c5c8a49e851": {
+    "asset": 1664828157132,
+    "meta": 1664828244810,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\fence"
+  },
+  "92f24075-9e3e-44bf-8e74-5dff233cf3c5": {
+    "asset": 1664828157216,
+    "meta": 1664828244812,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\laser"
+  },
+  "8822bedd-328f-454b-8572-c33ac84ef31e": {
+    "asset": 1655619832000,
+    "meta": 1664828241253,
+    "relativePath": "Atlas\\Sci-fi\\PreviewScene.unity"
+  },
+  "359e9d0a-03e6-4ca1-a39b-f660b5352023": {
+    "asset": 1655619832000,
+    "meta": 1664828241251,
+    "relativePath": "Atlas\\Sci-fi\\PreviewSceneSettings.lighting"
+  },
+  "d95d900b-292b-4594-8c21-c59087c89914": {
+    "asset": 1664828157331,
+    "meta": 1664828244829,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Sign"
+  },
+  "da8b3f6b-badc-4567-ad61-d1cb68b862cb": {
+    "asset": 1655619832000,
+    "meta": 1664828243395,
+    "relativePath": "Atlas\\Sci-fi\\doorAnimated\\Door (1).controller"
+  },
+  "0534861b-91e7-4af5-a940-47b374872f1e": {
+    "asset": 1655619832000,
+    "meta": 1664828244824,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Box (1).png"
+  },
+  "c2dc58b7-8a5b-4f37-839b-8bfdfd508027": {
+    "asset": 1655619832000,
+    "meta": 1664828244828,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\AirShaft.png"
+  },
+  "690778cd-db03-4b3d-87c7-7464ba0d3ddb": {
+    "asset": 1655619832000,
+    "meta": 1664828244834,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Box (2).png"
+  },
+  "1ecab1e5-95ad-43b6-a664-76f853252927": {
+    "asset": 1655619832000,
+    "meta": 1664828244845,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Chair.png"
+  },
+  "3756c01c-1450-47e2-9bb0-5e61f042f6da": {
+    "asset": 1655619832000,
+    "meta": 1664828244866,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Locker (1).png"
+  },
+  "69a9a6d1-da92-4972-a9d9-e43ca8404fd5": {
+    "asset": 1655619832000,
+    "meta": 1664828244862,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Locker (2).png"
+  },
+  "8585a00e-16d8-41b8-a5d3-fefcd66345e5": {
+    "asset": 1655619832000,
+    "meta": 1664828244869,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Pipe (1).png"
+  },
+  "06ddbce4-d726-48b7-8a09-a859173ff3bf": {
+    "asset": 1655619832000,
+    "meta": 1664828244881,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Pipe (2).png"
+  },
+  "ac98ed76-b02d-47a4-b224-cec9e85c2dee": {
+    "asset": 1655619832000,
+    "meta": 1664828244879,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Switch (1).png"
+  },
+  "49633741-1abb-414d-9114-7bbc08ff84e8": {
+    "asset": 1655619832000,
+    "meta": 1664828244883,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Switch (2).png"
+  },
+  "b2343080-53c6-4a17-a433-96bb7f7d1598": {
+    "asset": 1655619832000,
+    "meta": 1664828244905,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Table (1).png"
+  },
+  "6dbbd9a5-d509-41a0-97d1-0312106ceec5": {
+    "asset": 1655619832000,
+    "meta": 1664828244918,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Table (2).png"
+  },
+  "fe5000de-199b-47d8-981d-b021204b6cbb": {
+    "asset": 1655619832000,
+    "meta": 1664828244916,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Tile_17.png"
+  },
+  "83e776a1-555c-420d-9e07-0856948a52d0": {
+    "asset": 1655619832000,
+    "meta": 1664828244922,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Tile_19.png"
+  },
+  "c44f2509-c0de-489b-9268-a63deb4772d1": {
+    "asset": 1655619832000,
+    "meta": 1664828244920,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Vent.png"
+  },
+  "00e4a216-e193-43ec-bb0e-aaf91a41df99": {
+    "asset": 1655619832000,
+    "meta": 1664828244942,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Tube.png"
+  },
+  "2cda2b02-e9b6-45ee-9e6d-960b0dad01ba": {
+    "asset": 1655619832000,
+    "meta": 1664828244947,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-1.png"
+  },
+  "6a77074e-1a64-44e3-8d89-a9f5b84c0633": {
+    "asset": 1655619832000,
+    "meta": 1664828244949,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-10.png"
+  },
+  "6bc6451f-9cc0-41db-b194-37fb72f274bf": {
+    "asset": 1655619832000,
+    "meta": 1664828244966,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-11.png"
+  },
+  "fea52700-8f51-4b47-a549-dfdd1a6816f6": {
+    "asset": 1655619832000,
+    "meta": 1664828244970,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-13.png"
+  },
+  "82ae0f81-ece9-4844-ac10-fcc55c17820d": {
+    "asset": 1655619832000,
+    "meta": 1664828244968,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-12.png"
+  },
+  "850970d9-ced5-4952-8d5c-6cbc1725f05d": {
+    "asset": 1655619832000,
+    "meta": 1664828244976,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-14.png"
+  },
+  "6083ed7d-05ec-4459-9d34-fe879176af9c": {
+    "asset": 1655619832000,
+    "meta": 1664828244979,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-15.png"
+  },
+  "b77b832c-3930-4037-886f-f9894f4d929e": {
+    "asset": 1655619832000,
+    "meta": 1664828245001,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-16.png"
+  },
+  "5e7f866d-7390-4338-a5e7-8f654ab942a6": {
+    "asset": 1655619832000,
+    "meta": 1664828245012,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-2.png"
+  },
+  "bf1e7992-b35c-4f50-8411-7bb4751da619": {
+    "asset": 1655619832000,
+    "meta": 1664828244999,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-17.png"
+  },
+  "bab35584-f73d-4932-a736-d86d73f048ae": {
+    "asset": 1655619832000,
+    "meta": 1664828245015,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-18.png"
+  },
+  "fa2ff790-e7b9-4249-b59f-3708a6fd250a": {
+    "asset": 1655619832000,
+    "meta": 1664828241277,
+    "relativePath": "Atlas\\Sci-fi\\Preview3.png"
+  },
+  "27492f8c-7e90-41a6-b2a6-0c45776cc5d9": {
+    "asset": 1655619832000,
+    "meta": 1664828245014,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-20.png"
+  },
+  "a17abb22-0c81-4a2e-8124-19ada06ded6a": {
+    "asset": 1655619832000,
+    "meta": 1664828245010,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-19.png"
+  },
+  "a89e077a-98d2-461b-b286-e2ee6b078c83": {
+    "asset": 1655619832000,
+    "meta": 1664828245046,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-22.png"
+  },
+  "23094c0e-11a7-4a6b-b86e-4eb510fdc935": {
+    "asset": 1655619832000,
+    "meta": 1664828245044,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-21.png"
+  },
+  "d8ccf7e5-5bc2-459c-b84c-23b006ae03f4": {
+    "asset": 1655619832000,
+    "meta": 1664828245059,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-23.png"
+  },
+  "4fc9b89d-7b90-4a03-93f1-91a8b2333035": {
+    "asset": 1655619832000,
+    "meta": 1664828245069,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-25.png"
+  },
+  "4b79978f-0dc1-4d37-8466-f4b9fe67b4dc": {
+    "asset": 1655619832000,
+    "meta": 1664828245071,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-24.png"
+  },
+  "5dc3c72a-7eaf-4712-aba8-9ab40cd5d865": {
+    "asset": 1655619832000,
+    "meta": 1664828245073,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-26.png"
+  },
+  "d45fa434-6e2a-43fe-be00-e0fdf251b30c": {
+    "asset": 1655619832000,
+    "meta": 1664828245082,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-27.png"
+  },
+  "42468a62-5613-405f-a648-749436b784c8": {
+    "asset": 1655619832000,
+    "meta": 1664828245085,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-28.png"
+  },
+  "9c3d3049-0b83-4746-a981-c46593b90f2e": {
+    "asset": 1655619832000,
+    "meta": 1664828245083,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-29.png"
+  },
+  "4ccdedd6-d4e6-4084-acd3-bfa2ec6cbc9d": {
+    "asset": 1655619832000,
+    "meta": 1664828245105,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-30.png"
+  },
+  "3eebf7ed-4818-48f5-93bd-ba92bd5edf7a": {
+    "asset": 1655619832000,
+    "meta": 1664828245087,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-3.png"
+  },
+  "a1f059f4-7294-4823-865b-0786ae1f3040": {
+    "asset": 1655619832000,
+    "meta": 1664828245121,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-31.png"
+  },
+  "a79b4895-68a1-43de-ac9d-9a158e5dbd25": {
+    "asset": 1655619832000,
+    "meta": 1664828245120,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-32.png"
+  },
+  "ab62381b-81f9-4703-b650-38ecb1460830": {
+    "asset": 1655619832000,
+    "meta": 1664828245117,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-33.png"
+  },
+  "cf77f825-94b2-42ec-a5bf-e9bd21401f82": {
+    "asset": 1655619832000,
+    "meta": 1664828245124,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-34.png"
+  },
+  "cab0ff63-4025-4787-b972-f8008790158f": {
+    "asset": 1655619832000,
+    "meta": 1664828245128,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-36.png"
+  },
+  "2a5be2eb-316d-4c72-b37e-a5388a46db7d": {
+    "asset": 1655619832000,
+    "meta": 1664828245134,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-37.png"
+  },
+  "6d1954ae-4612-4b62-90c4-58ba08f8879f": {
+    "asset": 1655619832000,
+    "meta": 1664828245153,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-38.png"
+  },
+  "3c8df035-53d6-4496-a6c9-68a1689cda1c": {
+    "asset": 1655619832000,
+    "meta": 1664828245164,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-39.png"
+  },
+  "4ee52037-8a0d-4c4a-942d-795acac1060f": {
+    "asset": 1655619832000,
+    "meta": 1664828245171,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-4.png"
+  },
+  "386d6e82-f7bb-4a75-af32-afa53dbe6daf": {
+    "asset": 1655619832000,
+    "meta": 1664828245170,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-40.png"
+  },
+  "f9654af2-d306-4231-abe9-fa2ad34ccef2": {
+    "asset": 1655619832000,
+    "meta": 1664828245175,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-41.png"
+  },
+  "45065f91-e48d-47a8-9c3b-c2cba3f88aa2": {
+    "asset": 1655619832000,
+    "meta": 1664828245132,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-35.png"
+  },
+  "58ef2c38-1e3f-4493-99b4-99f316453cbb": {
+    "asset": 1655619832000,
+    "meta": 1664828245191,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-43.png"
+  },
+  "5d8f62d1-d26a-4088-99dc-40b9c69913e6": {
+    "asset": 1655619832000,
+    "meta": 1664828245194,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-44.png"
+  },
+  "7154ece4-a96c-4a23-b11b-b0e05fdd717c": {
+    "asset": 1655619832000,
+    "meta": 1664828245219,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-47.png"
+  },
+  "b2aab8f1-b6af-4105-93ed-f8a660549a49": {
+    "asset": 1655619832000,
+    "meta": 1664828245199,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-45.png"
+  },
+  "822a68fd-c034-4b02-9267-2e2298285cf7": {
+    "asset": 1655619832000,
+    "meta": 1664828245215,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-48.png"
+  },
+  "f6957e4e-d2ce-4edc-a1c8-4ac7d8ac2a27": {
+    "asset": 1655619832000,
+    "meta": 1664828245210,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-46.png"
+  },
+  "d968cf07-495a-4e5f-9605-cfacb4de0ab2": {
+    "asset": 1655619832000,
+    "meta": 1664828245217,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-49.png"
+  },
+  "3a6312ef-befa-4e68-8730-8db6da4182d5": {
+    "asset": 1655619832000,
+    "meta": 1664828245185,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-42.png"
+  },
+  "846b2362-02d9-4a53-a8b9-fc3e283661c5": {
+    "asset": 1655619832000,
+    "meta": 1664828245240,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-5.png"
+  },
+  "8e652cde-e4b6-415b-a422-015aa22e7b92": {
+    "asset": 1655619832000,
+    "meta": 1664828245231,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-50.png"
+  },
+  "5ef585a4-96fd-4382-8b03-ef83d8f6fcaa": {
+    "asset": 1655619832000,
+    "meta": 1664828245238,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-51.png"
+  },
+  "56b70fc7-3dc4-46bc-b5b2-b03e0e4ce311": {
+    "asset": 1655619832000,
+    "meta": 1664828245248,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-52.png"
+  },
+  "b0bb2145-0840-460e-bb74-4c0fae7fd1f2": {
+    "asset": 1655619832000,
+    "meta": 1664828245251,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-53.png"
+  },
+  "bfdf447d-207b-4aa8-8727-ac84355d9a92": {
+    "asset": 1655619832000,
+    "meta": 1664828245250,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-54.png"
+  },
+  "475500f3-3bae-4e4e-90aa-407e3da33dfe": {
+    "asset": 1655619832000,
+    "meta": 1664828245280,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-57.png"
+  },
+  "15bd88c6-a80b-4eae-88f8-b1ff11e24064": {
+    "asset": 1655619832000,
+    "meta": 1664828245285,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-58.png"
+  },
+  "e818a86c-8616-4ab4-9f9f-d59c4fb6a5c8": {
+    "asset": 1655619832000,
+    "meta": 1664828245283,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-59.png"
+  },
+  "77aeb214-1299-4235-8042-e7dc95548797": {
+    "asset": 1655619832000,
+    "meta": 1664828245261,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-55.png"
+  },
+  "84d6160f-b9ca-43ce-8e1d-dfbe88fe3019": {
+    "asset": 1655619832000,
+    "meta": 1664828245253,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-56.png"
+  },
+  "abb6e954-5a8f-4250-aacb-a15665298552": {
+    "asset": 1655619832000,
+    "meta": 1664828245287,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-6.png"
+  },
+  "b1601ec4-6c67-4328-9afe-4f94c4d6e0bc": {
+    "asset": 1655619832000,
+    "meta": 1664828245299,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-62.png"
+  },
+  "6152afd6-cfc9-45f9-a1c8-3005315177f5": {
+    "asset": 1655619832000,
+    "meta": 1664828245300,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-61.png"
+  },
+  "f0b07166-e019-4dcb-bd91-5487d6b52b64": {
+    "asset": 1655619832000,
+    "meta": 1664828245336,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-64.png"
+  },
+  "27e618a5-9336-48f3-9f32-32b4a034ff28": {
+    "asset": 1655619832000,
+    "meta": 1664828245324,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-7.png"
+  },
+  "fab845dd-fb75-41c9-9740-c15670b6e637": {
+    "asset": 1655619832000,
+    "meta": 1664828245352,
+    "relativePath": "Atlas\\Sci-fi\\vector\\ai\\Tile.ai"
+  },
+  "77e8c034-638a-41b5-a7c6-e84cc088ab69": {
+    "asset": 1655619832000,
+    "meta": 1664828245335,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-8.png"
+  },
+  "6a02b662-f683-4cb4-962e-c20e7ed2b315": {
+    "asset": 1655619832000,
+    "meta": 1664828245354,
+    "relativePath": "Atlas\\Sci-fi\\vector\\cdr\\Tile.cdr"
+  },
+  "5c43bef2-38d8-4ed8-a2b2-b2c82608eda2": {
+    "asset": 1655619832000,
+    "meta": 1664828245333,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-9.png"
+  },
+  "7a345318-157f-4b01-b912-e170e551d44f": {
+    "asset": 1655619832000,
+    "meta": 1664828245290,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-60.png"
+  },
+  "c4efadb7-72f9-4912-ad88-b175d87a2c31": {
+    "asset": 1655619832000,
+    "meta": 1664828245314,
+    "relativePath": "Atlas\\Sci-fi\\png\\tiles\\TileSep-63.png"
+  },
+  "eddf5473-f789-4030-9d9a-2f60c54cf03f": {
+    "asset": 1655619832000,
+    "meta": 1664828245976,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Barrel\\Green (1).png"
+  },
+  "2a859464-1bf3-4a7c-acd8-5a0b5036a1d4": {
+    "asset": 1655619832000,
+    "meta": 1664828245422,
+    "relativePath": "Atlas\\Sci-fi\\vector\\svg\\Tile.svg"
+  },
+  "48cd9341-00d7-45c0-bcd0-9efde69dd200": {
+    "asset": 1655619832000,
+    "meta": 1664828245978,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Barrel\\Green (2).png"
+  },
+  "07c71d19-bb1f-4629-b8ba-94ebbd284912": {
+    "asset": 1655619832000,
+    "meta": 1664828245995,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Barrel\\Red (1).png"
+  },
+  "652f2999-3f81-4ce6-9876-a569ddad3fa1": {
+    "asset": 1655619832000,
+    "meta": 1664828245996,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Barrel\\Yellow (1).png"
+  },
+  "f042f5c0-b1c1-41dd-8f7a-04691cd251ea": {
+    "asset": 1655619832000,
+    "meta": 1664828245993,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Barrel\\Red (2).png"
+  },
+  "83733a72-e06c-4d6d-929a-a83cc2df57e6": {
+    "asset": 1655619832000,
+    "meta": 1664828246004,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Barrel\\Yellow (2).png"
+  },
+  "e7234c4e-0a0c-4964-98df-b5b5ab2449f4": {
+    "asset": 1655619832000,
+    "meta": 1664828245380,
+    "relativePath": "Atlas\\Sci-fi\\vector\\cdr\\TilePrev.cdr"
+  },
+  "67cc49de-ecf4-4f45-bc2d-6e6f5a64a8fe": {
+    "asset": 1655619832000,
+    "meta": 1664828246014,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Door\\Door (1).png"
+  },
+  "ec613595-05cf-47a4-8de2-e66b2318eaa3": {
+    "asset": 1655619832000,
+    "meta": 1664828246031,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Door\\Door (2).png"
+  },
+  "7204ec33-9558-4fe9-a3cd-4471ba80ac54": {
+    "asset": 1655619832000,
+    "meta": 1664828246026,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Door\\Door (3).png"
+  },
+  "2a8367b3-ac3b-4ec5-9b6d-d30f745eec19": {
+    "asset": 1655619832000,
+    "meta": 1664828246030,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Door\\Door (4).png"
+  },
+  "77a8d092-b59f-4a67-a292-9ee24a0a873a": {
+    "asset": 1655619832000,
+    "meta": 1664828246033,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Door\\Door (5).png"
+  },
+  "6d94a076-31ee-452e-ad55-7866f55b8624": {
+    "asset": 1655619832000,
+    "meta": 1664828246047,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\fence\\Fence (1).png"
+  },
+  "ca21fe32-c690-424e-ae4a-c56801646c13": {
+    "asset": 1655619832000,
+    "meta": 1664828246044,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\fence\\Fence (2).png"
+  },
+  "6344e24d-b654-42bc-9c51-8e69675a1f6f": {
+    "asset": 1655619832000,
+    "meta": 1664828246063,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\fence\\Fence (3).png"
+  },
+  "aa2a25e6-5ce5-4b4e-a27f-30a5961864ce": {
+    "asset": 1655619832000,
+    "meta": 1664828246065,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\laser\\HorizontalLaser (2).png"
+  },
+  "a102140c-234f-41c3-9d57-435eddd2178e": {
+    "asset": 1655619832000,
+    "meta": 1664828246061,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\laser\\HorizontalLaser (1).png"
+  },
+  "b9368f32-3a10-4724-aa4f-43b43bfe25db": {
+    "asset": 1655619832000,
+    "meta": 1664828246083,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\laser\\HorizontalLaser (3).png"
+  },
+  "ef1ea90e-8d30-4e7b-ac5e-593e8517fc55": {
+    "asset": 1655619832000,
+    "meta": 1664828246078,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\laser\\HorizontalLaserOff (1).png"
+  },
+  "2cdafd19-2cfb-4fbc-aaed-f149d966291a": {
+    "asset": 1655619832000,
+    "meta": 1664828246085,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\laser\\HorizontalLaserOff (2).png"
+  },
+  "53dc1af6-e97a-4d9d-a3cf-12cbcecdb810": {
+    "asset": 1655619832000,
+    "meta": 1664828246088,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\laser\\VerticalLaser (1).png"
+  },
+  "72cd77f8-5f8e-4801-b3bd-5c267205d517": {
+    "asset": 1655619832000,
+    "meta": 1664828246098,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Sign\\Sign (1).png"
+  },
+  "83a3182f-0014-4af0-8dfe-d6806a4ecf24": {
+    "asset": 1655619832000,
+    "meta": 1664828246107,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\laser\\VerticalLaserOff.png"
+  },
+  "b8d9184c-585c-41a8-975b-701ee5ba69c6": {
+    "asset": 1655619832000,
+    "meta": 1664828246090,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\laser\\VerticalLaser (2).png"
+  },
+  "fb177cce-c197-4e7e-a019-9ad5a908cab6": {
+    "asset": 1655619832000,
+    "meta": 1664828246118,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Sign\\Sign (11).png"
+  },
+  "6f8c5354-e2bb-4e6f-8153-63ad723a7228": {
+    "asset": 1655619832000,
+    "meta": 1664828246099,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Sign\\Sign (10).png"
+  },
+  "03489a62-55ad-463e-9bb1-9fa52873cf99": {
+    "asset": 1655619832000,
+    "meta": 1664828246126,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Sign\\Sign (4).png"
+  },
+  "c0e5e6c0-24f3-4794-baa7-6aff4d180899": {
+    "asset": 1655619832000,
+    "meta": 1664828246117,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Sign\\Sign (2).png"
+  },
+  "9d1c49cc-fc6a-49bc-9e93-957c836a5602": {
+    "asset": 1655619832000,
+    "meta": 1664828245383,
+    "relativePath": "Atlas\\Sci-fi\\vector\\ai\\TilePrev.ai"
+  },
+  "21c0226d-bb0b-404a-ab11-d2c1ad115a65": {
+    "asset": 1655619832000,
+    "meta": 1664828246129,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Sign\\Sign (3).png"
+  },
+  "099d9db9-026c-46ca-9d2a-b424a209177a": {
+    "asset": 1655619832000,
+    "meta": 1664828245706,
+    "relativePath": "Atlas\\Sci-fi\\vector\\svg\\TilePrev.svg"
+  },
+  "b807ee04-8691-492d-9e7b-60e2e5ac3d6f": {
+    "asset": 1655619832000,
+    "meta": 1664828246141,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Sign\\Sign (6).png"
+  },
+  "44559c7b-81e3-493b-bbce-2a811b94c83d": {
+    "asset": 1655619832000,
+    "meta": 1664828245421,
+    "relativePath": "Atlas\\Sci-fi\\vector\\eps\\Tile.eps"
+  },
+  "c6f37ac8-e2ae-4f26-9021-e899381e4362": {
+    "asset": 1655619832000,
+    "meta": 1664828245709,
+    "relativePath": "Atlas\\Sci-fi\\vector\\eps\\TilePrev.eps"
+  },
+  "b99f1523-f20b-4b47-b9f8-731ec3cb105d": {
+    "asset": 1655619832000,
+    "meta": 1664828246129,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Sign\\Sign (5).png"
+  },
+  "d16a2478-1ea4-4e41-868a-9dfb0c262789": {
+    "asset": 1655619832000,
+    "meta": 1664828245705,
+    "relativePath": "Atlas\\Sci-fi\\vector\\eps\\TilePrev-01.eps"
+  },
+  "c0c2041e-e466-43e3-9796-c277d465c2df": {
+    "asset": 1655619832000,
+    "meta": 1664828246139,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Sign\\Sign (7).png"
+  },
+  "0ea6d3c0-655e-4095-8ff7-03de38b96f67": {
+    "asset": 1655619832000,
+    "meta": 1664828246141,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Sign\\Sign (8).png"
+  },
+  "a1099701-31ed-45c1-a6a0-c8d4c9467f7a": {
+    "asset": 1655619832000,
+    "meta": 1664828246150,
+    "relativePath": "Atlas\\Sci-fi\\png\\objects\\Sign\\Sign (9).png"
+  },
+  "ca1cfbc0-a899-45f8-b891-60464b4f8569": {
+    "asset": 1664828154853,
+    "meta": 1664828240130,
+    "relativePath": "Atlas\\game_items_pack_2_free"
+  },
+  "8613c91b-5373-410e-a5cd-a3c8bff0dc46": {
+    "asset": 1664828154757,
+    "meta": 1664828240996,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG"
+  },
+  "a03aff1d-b94a-467b-b87b-fab385054f68": {
+    "asset": 1664828154870,
+    "meta": 1664828240997,
+    "relativePath": "Atlas\\game_items_pack_2_free\\SVG"
+  },
+  "eed182b4-44e3-4073-92de-900d6d561bd5": {
+    "asset": 1664828154661,
+    "meta": 1664828243324,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\128px"
+  },
+  "3d55b4d2-99c4-475f-8c4a-83e62cca46ed": {
+    "asset": 1664828154751,
+    "meta": 1664828243326,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\256px"
+  },
+  "4f718567-decd-4560-99dd-b0ff0ffb6bff": {
+    "asset": 1664828154847,
+    "meta": 1664828243327,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\64px"
+  },
+  "e36beb23-2b9c-4317-aca0-0ba14d0967db": {
+    "asset": 1655619832000,
+    "meta": 1664828243368,
+    "relativePath": "Atlas\\game_items_pack_2_free\\SVG\\game_items.svg"
+  },
+  "e55e89b9-06b2-45f2-9ffa-dd5df542be99": {
+    "asset": 1655619832000,
+    "meta": 1664828244143,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\128px\\belt.png"
+  },
+  "69e29751-9ac8-4dc5-b3da-94f2a424380b": {
+    "asset": 1655619832000,
+    "meta": 1664828244146,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\128px\\bomb.png"
+  },
+  "8a25f404-d4a6-4511-8972-ea86c592bda4": {
+    "asset": 1655619832000,
+    "meta": 1664828244129,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\128px\\backpack.png"
+  },
+  "517ba27d-b651-4208-8975-29add118a594": {
+    "asset": 1655619832000,
+    "meta": 1664828244153,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\128px\\book.png"
+  },
+  "c3d931ac-a466-43ef-bb4b-f539ad239110": {
+    "asset": 1655619832000,
+    "meta": 1664828244170,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\128px\\feather.png"
+  },
+  "6d746077-9e78-4639-88a5-e6c5d0ba7ffe": {
+    "asset": 1655619832000,
+    "meta": 1664828244165,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\128px\\clover.png"
+  },
+  "e1837536-d1f2-4679-9922-c25265ad1c3e": {
+    "asset": 1655619832000,
+    "meta": 1664828244180,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\256px\\backpack.png"
+  },
+  "ac2db354-790c-449e-997b-e04576542e27": {
+    "asset": 1655619832000,
+    "meta": 1664828244179,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\128px\\ring.png"
+  },
+  "ea4c1c37-7072-4b7f-b7b6-fb53fd6968e3": {
+    "asset": 1655619832000,
+    "meta": 1664828244162,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\128px\\bronze_coin.png"
+  },
+  "b51d609c-3efc-43fb-8fb6-aeb7098ddc0c": {
+    "asset": 1655619832000,
+    "meta": 1664828244194,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\256px\\belt.png"
+  },
+  "c544bb89-eb62-4045-aa94-9112d0071286": {
+    "asset": 1655619832000,
+    "meta": 1664828244188,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\256px\\bomb.png"
+  },
+  "36dbc107-e365-46a4-a265-94c8657f2389": {
+    "asset": 1655619832000,
+    "meta": 1664828244230,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\256px\\bronze_coin.png"
+  },
+  "f788216f-8340-434c-b1d2-0cf2e93085ea": {
+    "asset": 1655619832000,
+    "meta": 1664828244229,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\64px\\backpack.png"
+  },
+  "257dcf91-f1fc-48ef-8fa9-8b232a5805d0": {
+    "asset": 1655619832000,
+    "meta": 1664828244207,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\256px\\clover.png"
+  },
+  "a4b5a543-7621-428c-bc89-721545da487a": {
+    "asset": 1655619832000,
+    "meta": 1664828244245,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\64px\\belt.png"
+  },
+  "eea14bb5-ed35-4ca8-9931-7c3c83d1a379": {
+    "asset": 1655619832000,
+    "meta": 1664828244232,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\256px\\ring.png"
+  },
+  "8c80bd31-5126-454d-8b3e-15471fdb988b": {
+    "asset": 1655619832000,
+    "meta": 1664828241034,
+    "relativePath": "Atlas\\game_items_pack_2_free\\cover_free.png"
+  },
+  "432fc587-d93a-45a9-b2f1-6c49fabae96f": {
+    "asset": 1655619832000,
+    "meta": 1664828244257,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\64px\\bomb.png"
+  },
+  "ef74e2dc-5253-4a94-a851-fc0fa509800f": {
+    "asset": 1655619832000,
+    "meta": 1664828244268,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\64px\\book.png"
+  },
+  "77d4e585-359f-413d-9e2e-dc5f4c09c773": {
+    "asset": 1655619832000,
+    "meta": 1664828244211,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\256px\\book.png"
+  },
+  "ae92f7c0-53fa-430f-aee1-05152310e3ee": {
+    "asset": 1655619832000,
+    "meta": 1664828244266,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\64px\\bronze_coin.png"
+  },
+  "e3761fa3-1deb-4f39-b349-95d380b283f7": {
+    "asset": 1655619832000,
+    "meta": 1664828244247,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\256px\\feather.png"
+  },
+  "3c77fdea-dd36-4ae3-a2f5-3e0587ab76af": {
+    "asset": 1655619832000,
+    "meta": 1664828244283,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\64px\\clover.png"
+  },
+  "b0ee8aad-9019-4ced-a182-5d48d6758ceb": {
+    "asset": 1655619832000,
+    "meta": 1664828244279,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\64px\\feather.png"
+  },
+  "c6f1d30c-a9aa-4a90-b9c5-f106913a6f25": {
+    "asset": 1655619832000,
+    "meta": 1664828244281,
+    "relativePath": "Atlas\\game_items_pack_2_free\\PNG\\64px\\ring.png"
+  },
+  "7e9821e2-1b25-409f-9979-955422333bc3": {
+    "asset": 1655753294000,
+    "meta": 1664828240373,
+    "relativePath": "Scene\\GameStage2.fire"
+  },
+  "84ac8901-0653-4a05-b2af-7c721a7aa1dc": {
+    "asset": 1655619832000,
+    "meta": 1664828240806,
+    "relativePath": "Script\\switching_from_waiting.ts"
+  },
+  "72c52e2e-9a9e-462f-8d0f-3295c0ee1a5e": {
+    "asset": 1655619832000,
+    "meta": 1664828242256,
+    "relativePath": "Script\\Game2Object\\TransGround.ts"
+  },
+  "36cbf891-cbfa-4b15-8aad-9e503990d0a0": {
+    "asset": 1664828162368,
+    "meta": 1664828240478,
+    "relativePath": "Script\\Game4Object"
+  },
+  "427d72d7-9464-4439-a473-c316280226c8": {
+    "asset": 1655619832000,
+    "meta": 1664828242975,
+    "relativePath": "Script\\GameManager\\GameManagerS4.ts"
+  },
+  "ab0ae51e-c758-4211-910d-774627b36dad": {
+    "asset": 1655619832000,
+    "meta": 1664828240773,
+    "relativePath": "Script\\ready_to_S1.ts"
+  },
+  "c8073b89-039d-4a5e-9aa2-2021ea49ea1c": {
+    "asset": 1655619832000,
+    "meta": 1664828246181,
+    "relativePath": "maps\\mapLobby.tmx"
+  },
+  "e355539f-6d15-497e-a555-4b66968dcf8f": {
+    "asset": 1655619832000,
+    "meta": 1664828240400,
+    "relativePath": "Script\\computer.ts"
+  },
+  "b5405050-157c-4795-90e1-43ef3d2ebbad": {
+    "asset": 1655619832000,
+    "meta": 1664828246175,
+    "relativePath": "maps\\mapGame.tmx"
+  },
+  "a809eea3-d738-48a4-ba38-810f9b3cda02": {
+    "asset": 1655753316000,
+    "meta": 1664828240843,
+    "relativePath": "Scene\\GameStage4.fire"
+  },
+  "9836134e-b892-4283-b6b2-78b5acf3ed45": {
+    "asset": 1650308116652,
+    "meta": 1664828232145,
+    "relativePath": "effects"
+  },
+  "abc2cb62-7852-4525-a90d-d474487b88f2": {
+    "asset": 1650308116635,
+    "meta": 1664828232381,
+    "relativePath": "effects\\builtin-phong.effect"
+  },
+  "e2f00085-c597-422d-9759-52c360279106": {
+    "asset": 1650308116640,
+    "meta": 1664828232443,
+    "relativePath": "effects\\builtin-toon.effect"
+  },
+  "430eccbf-bf2c-4e6e-8c0c-884bbb487f32": {
+    "asset": 1650308116643,
+    "meta": 1664828232464,
+    "relativePath": "effects\\__builtin-editor-gizmo-line.effect"
+  },
+  "6c5cf6e1-b044-4eac-9431-835644d57381": {
+    "asset": 1650308116648,
+    "meta": 1664828232480,
+    "relativePath": "effects\\__builtin-editor-gizmo-unlit.effect"
+  },
+  "115286d1-2e10-49ee-aab4-341583f607e8": {
+    "asset": 1650308116651,
+    "meta": 1664828232522,
+    "relativePath": "effects\\__builtin-editor-gizmo.effect"
+  },
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1650308116720,
+    "meta": 1664828232145,
+    "relativePath": "image"
+  },
+  "edd215b9-2796-4a05-aaf5-81f96c9281ce": {
+    "asset": 1650308116677,
+    "meta": 1664828232556,
+    "relativePath": "image\\default_editbox_bg.png"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1650308116664,
+    "meta": 1664828232565,
+    "relativePath": "image\\default_btn_normal.png"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1650308116658,
+    "meta": 1664828232559,
+    "relativePath": "image\\default_btn_disabled.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1650308116682,
+    "meta": 1664828232561,
+    "relativePath": "image\\default_panel.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1650308116673,
+    "meta": 1664828232554,
+    "relativePath": "image\\default_btn_pressed.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1650308116686,
+    "meta": 1664828232566,
+    "relativePath": "image\\default_progressbar_bg.png"
+  },
+  "600301aa-3357-4a10-b086-84f011fa32ba": {
+    "asset": 1650308116655,
+    "meta": 1664828232568,
+    "relativePath": "image\\default-particle.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1650308116684,
+    "meta": 1664828232563,
+    "relativePath": "image\\default_progressbar.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1650308116692,
+    "meta": 1664828232593,
+    "relativePath": "image\\default_radio_button_on.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1650308116689,
+    "meta": 1664828232589,
+    "relativePath": "image\\default_radio_button_off.png"
+  },
+  "5c3eedba-6c41-4c0c-9ba7-d91f813cbd1c": {
+    "asset": 1650308116727,
+    "meta": 1664828232146,
+    "relativePath": "materials"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1650308116694,
+    "meta": 1664828232593,
+    "relativePath": "image\\default_scrollbar.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1650308116697,
+    "meta": 1664828232591,
+    "relativePath": "image\\default_scrollbar_bg.png"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1650308116735,
+    "meta": 1664828232147,
+    "relativePath": "misc"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1650308116702,
+    "meta": 1664828232642,
+    "relativePath": "image\\default_scrollbar_vertical_bg.png"
+  },
+  "db019bf7-f71c-4111-98cf-918ea180cb48": {
+    "asset": 1650308116769,
+    "meta": 1664828232147,
+    "relativePath": "model"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1650308116700,
+    "meta": 1664828232596,
+    "relativePath": "image\\default_scrollbar_vertical.png"
+  },
+  "e39e96e6-6f6e-413f-bcf1-ac7679bb648a": {
+    "asset": 1650308116761,
+    "meta": 1664828232603,
+    "relativePath": "model\\prefab"
+  },
+  "c4480a0a-6ac5-443f-8b40-361a14257fc8": {
+    "asset": 1650308116725,
+    "meta": 1664828233042,
+    "relativePath": "materials\\builtin-phong.mtl"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1650308116704,
+    "meta": 1664828232600,
+    "relativePath": "image\\default_sprite.png"
+  },
+  "a87cc147-01b2-43f8-8e42-a7ca90b0c757": {
+    "asset": 1650308116741,
+    "meta": 1664828232743,
+    "relativePath": "model\\prefab\\box.prefab"
+  },
+  "fe1417b6-fe6b-46a4-ae7c-9fd331f33a2a": {
+    "asset": 1650308116744,
+    "meta": 1664828232745,
+    "relativePath": "model\\prefab\\capsule.prefab"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1650308116708,
+    "meta": 1664828232602,
+    "relativePath": "image\\default_sprite_splash.png"
+  },
+  "b5fc2cf2-7942-483d-be1f-bbeadc4714ad": {
+    "asset": 1650308116749,
+    "meta": 1664828232754,
+    "relativePath": "model\\prefab\\cone.prefab"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1650308116710,
+    "meta": 1664828232660,
+    "relativePath": "image\\default_toggle_checkmark.png"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1650308116779,
+    "meta": 1664828232148,
+    "relativePath": "obsolete"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1650308116714,
+    "meta": 1664828232657,
+    "relativePath": "image\\default_toggle_disabled.png"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1650308116734,
+    "meta": 1664828232680,
+    "relativePath": "misc\\default_video.mp4"
+  },
+  "1c5e4038-953a-44c2-b620-0bbfc6170477": {
+    "asset": 1650308116751,
+    "meta": 1664828232752,
+    "relativePath": "model\\prefab\\cylinder.prefab"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1650308116720,
+    "meta": 1664828232668,
+    "relativePath": "image\\default_toggle_pressed.png"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1650308116787,
+    "meta": 1664828232149,
+    "relativePath": "particle"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1650308116717,
+    "meta": 1664828232656,
+    "relativePath": "image\\default_toggle_normal.png"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1650308116872,
+    "meta": 1664828232149,
+    "relativePath": "prefab"
+  },
+  "3f376125-a699-40ca-ad05-04d662eaa1f2": {
+    "asset": 1650308116753,
+    "meta": 1664828232756,
+    "relativePath": "model\\prefab\\plane.prefab"
+  },
+  "6c9ef10d-b479-420b-bfe6-39cdda6a8ae0": {
+    "asset": 1650308116756,
+    "meta": 1664828232758,
+    "relativePath": "model\\prefab\\quad.prefab"
+  },
+  "2d9a4b85-b0ab-4c46-84c5-18f393ab2058": {
+    "asset": 1650308116758,
+    "meta": 1664828232907,
+    "relativePath": "model\\prefab\\sphere.prefab"
+  },
+  "de510076-056b-484f-b94c-83bef217d0e1": {
+    "asset": 1650308116760,
+    "meta": 1664828232848,
+    "relativePath": "model\\prefab\\torus.prefab"
+  },
+  "897ef7a1-4860-4f64-968d-f5924b18668a": {
+    "asset": 1650308116792,
+    "meta": 1664828232675,
+    "relativePath": "prefab\\2d-camera.prefab"
+  },
+  "70d7cdb0-04cd-41bb-9480-c06a4785f386": {
+    "asset": 1650308116794,
+    "meta": 1664828232674,
+    "relativePath": "prefab\\3d-camera.prefab"
+  },
+  "ed88f13d-fcad-4848-aa35-65a2cb973584": {
+    "asset": 1650308116802,
+    "meta": 1664828232694,
+    "relativePath": "prefab\\3d-stage.prefab"
+  },
+  "70bbeb73-6dc2-4ee4-8faf-76b3a0e34ec4": {
+    "asset": 1650308116799,
+    "meta": 1664828232678,
+    "relativePath": "prefab\\3d-particle.prefab"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1650308116804,
+    "meta": 1664828232693,
+    "relativePath": "prefab\\button.prefab"
+  },
+  "a3ee0214-b432-4865-9666-4a3211814282": {
+    "asset": 1650308116828,
+    "meta": 1664828232682,
+    "relativePath": "prefab\\light"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1650308116806,
+    "meta": 1664828232697,
+    "relativePath": "prefab\\canvas.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1650308116810,
+    "meta": 1664828232698,
+    "relativePath": "prefab\\label.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1650308116808,
+    "meta": 1664828232701,
+    "relativePath": "prefab\\editbox.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1650308116816,
+    "meta": 1664828232703,
+    "relativePath": "prefab\\layout.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1650308116831,
+    "meta": 1664828232707,
+    "relativePath": "prefab\\pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1650308116833,
+    "meta": 1664828232709,
+    "relativePath": "prefab\\particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1650308116835,
+    "meta": 1664828232711,
+    "relativePath": "prefab\\progressBar.prefab"
+  },
+  "d0a82d39-bede-46c4-b698-c81ff0dedfff": {
+    "asset": 1650308116786,
+    "meta": 1664828232681,
+    "relativePath": "particle\\atom.png"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1650308116838,
+    "meta": 1664828232715,
+    "relativePath": "prefab\\richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1650308116840,
+    "meta": 1664828232717,
+    "relativePath": "prefab\\scrollview.prefab"
+  },
+  "8a96b965-2dc0-4e03-aa90-3b79cb93b5b4": {
+    "asset": 1650308116777,
+    "meta": 1664828232670,
+    "relativePath": "obsolete\\atom.png"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1650308116843,
+    "meta": 1664828232719,
+    "relativePath": "prefab\\slider.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1650308116848,
+    "meta": 1664828232713,
+    "relativePath": "prefab\\sprite.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1650308116851,
+    "meta": 1664828232721,
+    "relativePath": "prefab\\sprite_splash.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1650308116853,
+    "meta": 1664828232724,
+    "relativePath": "prefab\\tiledmap.prefab"
+  },
+  "0e42ba95-1fa1-46aa-b2cf-143cd1bcee2c": {
+    "asset": 1650308116855,
+    "meta": 1664828232726,
+    "relativePath": "prefab\\tiledtile.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1650308116858,
+    "meta": 1664828232730,
+    "relativePath": "prefab\\toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1650308116860,
+    "meta": 1664828232732,
+    "relativePath": "prefab\\toggleContainer.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1650308116866,
+    "meta": 1664828232747,
+    "relativePath": "prefab\\toggleGroup.prefab"
+  },
+  "d8afc78c-4eac-4a9f-83dd-67bc70344d33": {
+    "asset": 1650308116904,
+    "meta": 1664828232150,
+    "relativePath": "resources"
+  },
+  "294c1663-4adf-4a1e-a795-53808011a38a": {
+    "asset": 1650308116901,
+    "meta": 1664828232725,
+    "relativePath": "resources\\effects"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1650308116871,
+    "meta": 1664828232741,
+    "relativePath": "prefab\\webview.prefab"
+  },
+  "bbee2217-c261-49bd-a8ce-708d6bcc3500": {
+    "asset": 1650308116933,
+    "meta": 1664828232728,
+    "relativePath": "resources\\materials"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1650308116869,
+    "meta": 1664828232739,
+    "relativePath": "prefab\\videoplayer.prefab"
+  },
+  "30682f87-9f0d-4f17-8a44-72863791461b": {
+    "asset": 1650308116876,
+    "meta": 1664828232778,
+    "relativePath": "resources\\effects\\builtin-2d-graphics.effect"
+  },
+  "144c3297-af63-49e8-b8ef-1cfa29b3be28": {
+    "asset": 1650308116880,
+    "meta": 1664828232795,
+    "relativePath": "resources\\effects\\builtin-2d-gray-sprite.effect"
+  },
+  "f18742d7-56d2-4eb5-ae49-2d9d710b37c8": {
+    "asset": 1650308116883,
+    "meta": 1664828232815,
+    "relativePath": "resources\\effects\\builtin-2d-label.effect"
+  },
+  "0e93aeaa-0b53-4e40-b8e0-6268b4e07bd7": {
+    "asset": 1650308116885,
+    "meta": 1664828232833,
+    "relativePath": "resources\\effects\\builtin-2d-spine.effect"
+  },
+  "61906da3-7003-4bda-9abc-5769c76faee4": {
+    "asset": 1650308116819,
+    "meta": 1664828232969,
+    "relativePath": "prefab\\light\\ambient.prefab"
+  },
+  "2874f8dd-416c-4440-81b7-555975426e93": {
+    "asset": 1650308116888,
+    "meta": 1664828232847,
+    "relativePath": "resources\\effects\\builtin-2d-sprite.effect"
+  },
+  "829a282c-b049-4019-bd38-5ace8d8a6417": {
+    "asset": 1650308116890,
+    "meta": 1664828232906,
+    "relativePath": "resources\\effects\\builtin-3d-particle.effect"
+  },
+  "2a7c0036-e0b3-4fe1-8998-89a54b8a2bec": {
+    "asset": 1650308116893,
+    "meta": 1664828232931,
+    "relativePath": "resources\\effects\\builtin-3d-trail.effect"
+  },
+  "c0040c95-c57f-49cd-9cbc-12316b73d0d4": {
+    "asset": 1650308116898,
+    "meta": 1664828232942,
+    "relativePath": "resources\\effects\\builtin-clear-stencil.effect"
+  },
+  "6d91e591-4ce0-465c-809f-610ec95019c6": {
+    "asset": 1650308116900,
+    "meta": 1664828232962,
+    "relativePath": "resources\\effects\\builtin-unlit.effect"
+  },
+  "ddb99b39-7004-47cd-9705-751905c43c46": {
+    "asset": 1650308116821,
+    "meta": 1664828232966,
+    "relativePath": "prefab\\light\\directional.prefab"
+  },
+  "0cf30284-9073-46bc-9eba-e62b69dbbff3": {
+    "asset": 1650308116824,
+    "meta": 1664828232964,
+    "relativePath": "prefab\\light\\point.prefab"
+  },
+  "f5331fd2-bf42-4ee3-a3fd-3e1657600eff": {
+    "asset": 1650308116827,
+    "meta": 1664828232967,
+    "relativePath": "prefab\\light\\spot.prefab"
+  },
+  "a153945d-2511-4c14-be7b-05d242f47d57": {
+    "asset": 1650308116907,
+    "meta": 1664828233061,
+    "relativePath": "resources\\materials\\builtin-2d-graphics.mtl"
+  },
+  "6f801092-0c37-4f30-89ef-c8d960825b36": {
+    "asset": 1650308116905,
+    "meta": 1664828233060,
+    "relativePath": "resources\\materials\\builtin-2d-base.mtl"
+  },
+  "3a7bb79f-32fd-422e-ada2-96f518fed422": {
+    "asset": 1650308116910,
+    "meta": 1664828233061,
+    "relativePath": "resources\\materials\\builtin-2d-gray-sprite.mtl"
+  },
+  "e02d87d4-e599-4d16-8001-e14891ac6506": {
+    "asset": 1650308116914,
+    "meta": 1664828233062,
+    "relativePath": "resources\\materials\\builtin-2d-label.mtl"
+  },
+  "7afd064b-113f-480e-b793-8817d19f63c3": {
+    "asset": 1650308116918,
+    "meta": 1664828233070,
+    "relativePath": "resources\\materials\\builtin-2d-spine.mtl"
+  },
+  "432fa09c-cf03-4cff-a186-982604408a07": {
+    "asset": 1650308116922,
+    "meta": 1664828233071,
+    "relativePath": "resources\\materials\\builtin-3d-particle.mtl"
+  },
+  "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432": {
+    "asset": 1650308116920,
+    "meta": 1664828233069,
+    "relativePath": "resources\\materials\\builtin-2d-sprite.mtl"
+  },
+  "466d4f9b-e5f4-4ea8-85d5-3c6e9a65658a": {
+    "asset": 1650308116925,
+    "meta": 1664828233073,
+    "relativePath": "resources\\materials\\builtin-3d-trail.mtl"
+  },
+  "cf7e0bb8-a81c-44a9-ad79-d28d43991032": {
+    "asset": 1650308116927,
+    "meta": 1664828233072,
+    "relativePath": "resources\\materials\\builtin-clear-stencil.mtl"
+  },
+  "2a296057-247c-4a1c-bbeb-0548b6c98650": {
+    "asset": 1650308116931,
+    "meta": 1664828233071,
+    "relativePath": "resources\\materials\\builtin-unlit.mtl"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1650308116774,
+    "meta": 1664828233088,
+    "relativePath": "obsolete\\atom.plist"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1650308116784,
+    "meta": 1664828233087,
+    "relativePath": "particle\\atom.plist"
+  },
+  "954fec8b-cd16-4bb9-a3b7-7719660e7558": {
+    "asset": 1650308116767,
+    "meta": 1664828237229,
+    "relativePath": "model\\primitives.fbx"
+  },
+  "f3599e12-3d12-43ec-8763-de85056754a6": {
+    "asset": 1664828155768,
+    "meta": 1664828240134,
+    "relativePath": "Atlas\\itemS2"
+  },
+  "366be8bd-414d-42bb-9c98-6d7256ba9471": {
+    "asset": 1655619832000,
+    "meta": 1664828246502,
+    "relativePath": "Atlas\\itemS2\\Coin1.plist"
+  },
+  "c022e555-94bd-41f3-8823-00dcfd92adba": {
+    "asset": 1655619832000,
+    "meta": 1664828241083,
+    "relativePath": "Atlas\\itemS2\\Coin1.png"
+  },
+  "43e76b42-82fa-465b-8b14-022a0731aa0b": {
+    "asset": 1664828153218,
+    "meta": 1664828240125,
+    "relativePath": "animation\\itemS2"
+  },
+  "c8b79354-a876-4408-8389-0a3c948d3b23": {
+    "asset": 1655619832000,
+    "meta": 1664828240847,
+    "relativePath": "animation\\itemS2\\coinAnim.anim"
+  },
+  "6ce0ba1e-3211-42a3-8a7d-0f756e5e0eef": {
+    "asset": 1664828158805,
+    "meta": 1664828240138,
+    "relativePath": "audio\\BGM"
+  },
+  "7bb9a389-d302-45cd-9054-772427720d6b": {
+    "asset": 1655619832000,
+    "meta": 1664828241817,
+    "relativePath": "audio\\BGM\\鬼抓人一般.mp3"
+  },
+  "ab268d59-5852-4367-b903-69af0e36aed7": {
+    "asset": 1664828159351,
+    "meta": 1664828240140,
+    "relativePath": "audio\\sound_effect"
+  },
+  "698a4a36-e445-4619-bfba-6f505c40c180": {
+    "asset": 1655619832000,
+    "meta": 1664828241789,
+    "relativePath": "audio\\BGM\\Paper_scissor_stone.mp3"
+  },
+  "298c95b1-380a-4844-852e-aaf398ceebc5": {
+    "asset": 1655619832000,
+    "meta": 1664828241798,
+    "relativePath": "audio\\BGM\\champion.mp3"
+  },
+  "e17b78ce-9b43-4f03-a305-cfbf3fa810ac": {
+    "asset": 1655619832000,
+    "meta": 1664828241799,
+    "relativePath": "audio\\BGM\\鬼抓人_鬼.mp3"
+  },
+  "23f65b9a-418f-4d13-b3f1-3cfc2934d06d": {
+    "asset": 1655619832000,
+    "meta": 1664828241801,
+    "relativePath": "audio\\BGM\\LOGIN_LOBBY.mp3"
+  },
+  "1bf31eca-62f3-4c71-a5af-bfa2f211fa00": {
+    "asset": 1655619832000,
+    "meta": 1664828241930,
+    "relativePath": "audio\\sound_effect\\1UP.mp3"
+  },
+  "3a1770ca-5cba-4858-b57b-2d586330f0c6": {
+    "asset": 1655619832000,
+    "meta": 1664828241966,
+    "relativePath": "audio\\sound_effect\\受傷(可用在猜拳失敗).mp3"
+  },
+  "24833c4c-4768-43db-9669-a793d4b61e80": {
+    "asset": 1655619832000,
+    "meta": 1664828241809,
+    "relativePath": "audio\\BGM\\金幣.mp3"
+  },
+  "45678672-f03f-4d69-bf4a-68fd2271246b": {
+    "asset": 1655619832000,
+    "meta": 1664828241989,
+    "relativePath": "audio\\sound_effect\\按鍵聲.mp3"
+  },
+  "d236dc31-6743-4924-830a-2038aac57efd": {
+    "asset": 1655619832000,
+    "meta": 1664828241992,
+    "relativePath": "audio\\sound_effect\\猜拳勝利.mp3"
+  },
+  "0fdb2293-04a7-48b5-b964-2f27dd4cc1bd": {
+    "asset": 1655619832000,
+    "meta": 1664828241976,
+    "relativePath": "audio\\sound_effect\\打人音效(猜拳勝利可用).wav"
+  },
+  "0d903fa3-c247-4ccb-917d-a079aca11374": {
+    "asset": 1655619832000,
+    "meta": 1664828242005,
+    "relativePath": "audio\\sound_effect\\猜拳失敗音效.mp3"
+  },
+  "632bf77e-c920-404d-9499-19b8655a3dd9": {
+    "asset": 1655619832000,
+    "meta": 1664828241820,
+    "relativePath": "audio\\BGM\\異形末路_floor.mp3"
+  },
+  "c734d6ef-6bfd-4040-9a6d-207744398592": {
+    "asset": 1655619832000,
+    "meta": 1664828241823,
+    "relativePath": "audio\\BGM\\paper.mp3"
+  },
+  "ec4e3c83-97c5-4cb3-b307-4a99548a5ed7": {
+    "asset": 1664828155649,
+    "meta": 1664828240132,
+    "relativePath": "Atlas\\icon"
+  },
+  "5fa0fbe1-7068-4fff-bd4d-fcbc7958203b": {
+    "asset": 1655619832000,
+    "meta": 1664828241030,
+    "relativePath": "Atlas\\icon\\accept_hover.png"
+  },
+  "ddcb0a51-d80d-456e-b337-9932bfe3d3bd": {
+    "asset": 1655619832000,
+    "meta": 1664828241046,
+    "relativePath": "Atlas\\icon\\coin.png"
+  },
+  "f25941b4-5106-4440-8d77-907f31c91972": {
+    "asset": 1655619832000,
+    "meta": 1664828241055,
+    "relativePath": "Atlas\\icon\\choose_hover.png"
+  },
+  "8816e087-605a-4cb7-98a6-b9beb3b9512e": {
+    "asset": 1655619832000,
+    "meta": 1664828241027,
+    "relativePath": "Atlas\\icon\\accept.png"
+  },
+  "de9607c1-709c-4845-a18d-f409f03d2e7f": {
+    "asset": 1655619832000,
+    "meta": 1664828241044,
+    "relativePath": "Atlas\\icon\\fight.png"
+  },
+  "426f5e1a-05e9-417e-a2ed-9c75e06e5152": {
+    "asset": 1655619832000,
+    "meta": 1664828241057,
+    "relativePath": "Atlas\\icon\\fight_pink.png"
+  },
+  "67384b0c-88c3-4112-b35e-b4086bb7ea3f": {
+    "asset": 1655619832000,
+    "meta": 1664828241042,
+    "relativePath": "Atlas\\icon\\choose.png"
+  },
+  "2a272824-131a-4881-9883-4b654b191352": {
+    "asset": 1655619832000,
+    "meta": 1664828241056,
+    "relativePath": "Atlas\\icon\\fight_hover.png"
+  },
+  "83b660f3-f6c5-4548-adf1-3322c7b3b038": {
+    "asset": 1655619832000,
+    "meta": 1664828241060,
+    "relativePath": "Atlas\\icon\\fight_red.png"
+  },
+  "143cb3fd-5b34-4488-845c-bff9631cb6c1": {
+    "asset": 1655619832000,
+    "meta": 1664828241079,
+    "relativePath": "Atlas\\icon\\Pxiel Art UI borders.png"
+  },
+  "2fe36d6c-9466-44bc-9030-0573bbcf4112": {
+    "asset": 1655619832000,
+    "meta": 1664828241087,
+    "relativePath": "Atlas\\icon\\reject_hover.png"
+  },
+  "d1437acb-150d-4f62-ac59-823946b362d6": {
+    "asset": 1655619832000,
+    "meta": 1664828241079,
+    "relativePath": "Atlas\\icon\\reject.png"
+  },
+  "e8f6905a-6cf2-4e84-9e06-d279563a8940": {
+    "asset": 1655619832000,
+    "meta": 1664828241075,
+    "relativePath": "Atlas\\icon\\heart.png"
+  },
+  "5f226390-822e-47cd-84a5-4f304528e9f1": {
+    "asset": 1655619832000,
+    "meta": 1664828241091,
+    "relativePath": "Atlas\\icon\\sword.png"
+  },
+  "6ff61886-f224-4a54-b2c0-489df810319b": {
+    "asset": 1655619832000,
+    "meta": 1664828242532,
+    "relativePath": "Script\\Game5Object\\fight_forum.ts"
+  },
+  "41eddec0-1a68-40a3-8723-a7ede8ce2792": {
+    "asset": 1655619832000,
+    "meta": 1664828242636,
+    "relativePath": "Script\\Game5Object\\opponent_betting_update.ts"
+  },
+  "48e55d63-fab6-4435-a215-39bc52a6efc0": {
+    "asset": 1655619832000,
+    "meta": 1664828242732,
+    "relativePath": "Script\\Game5Object\\special_player.ts"
+  },
+  "37e38e16-b2e7-44f6-9682-43d4a5e1d370": {
+    "asset": 1655619832000,
+    "meta": 1664828242754,
+    "relativePath": "Script\\Game5Object\\TranGround_special.ts"
+  },
+  "e7b61578-ba53-4853-aa67-a1cd2634859a": {
+    "asset": 1655619832000,
+    "meta": 1664828242784,
+    "relativePath": "Script\\Game5Object\\utility.ts"
+  },
+  "9f0cb3b9-cc68-449a-9cef-fd1476a1f68e": {
+    "asset": 1655755376000,
+    "meta": 1664828240831,
+    "relativePath": "Scene\\GameStage5.fire"
+  },
+  "b0148a85-835c-4b96-a4f4-5cda4889a3a0": {
+    "asset": 1655619832000,
+    "meta": 1664828240148,
+    "relativePath": "fonts\\DancingScript-Regular.ttf"
+  },
+  "d541b87f-71d3-4e42-9bff-cc85ef135127": {
+    "asset": 1655619832000,
+    "meta": 1664828241012,
+    "relativePath": "Atlas\\card\\scissor_hover.png"
+  },
+  "07bcbe2e-2c37-452a-b02d-d08209d533a0": {
+    "asset": 1655619832000,
+    "meta": 1664828240993,
+    "relativePath": "Atlas\\card\\card_back.png"
+  },
+  "37d8a8df-d25d-44ac-bfc4-bfb70f405e4c": {
+    "asset": 1655619832000,
+    "meta": 1664828240995,
+    "relativePath": "Atlas\\card\\paper.png"
+  },
+  "11aed546-9b2d-4678-ba81-aa361968eb69": {
+    "asset": 1655619832000,
+    "meta": 1664828241018,
+    "relativePath": "Atlas\\card\\scissor.png"
+  },
+  "4f396f32-1da1-477b-899c-fc6a1ec1f096": {
+    "asset": 1655619832000,
+    "meta": 1664828241021,
+    "relativePath": "Atlas\\card\\stone_hover.png"
+  },
+  "d1917591-96e5-4b72-b729-2609fbfccd65": {
+    "asset": 1655619832000,
+    "meta": 1664828240988,
+    "relativePath": "Atlas\\card\\paper_hover.png"
+  },
+  "24248480-1f14-4010-bc6a-ae91f28ab662": {
+    "asset": 1655619832000,
+    "meta": 1664828241025,
+    "relativePath": "Atlas\\card\\stone.png"
+  },
+  "2fbf7f4d-37b0-4f61-b236-a77597bd5373": {
+    "asset": 1655619832000,
+    "meta": 1664828242554,
+    "relativePath": "Script\\Game5Object\\fight_pressed.ts"
+  },
+  "05e771ac-62d0-424f-8c9c-9a29b224c189": {
+    "asset": 1655619832000,
+    "meta": 1664828241967,
+    "relativePath": "audio\\sound_effect\\呼嘯而過.wav"
+  },
+  "031cb31e-8754-4406-bac4-a62efe69163a": {
+    "asset": 1655619832000,
+    "meta": 1664828241968,
+    "relativePath": "audio\\sound_effect\\傳送帶(我覺得最好但時間不太夠).mp3"
+  },
+  "b0370b41-6c6b-42be-bca0-3c55c0862f00": {
+    "asset": 1655619832000,
+    "meta": 1664828241973,
+    "relativePath": "audio\\sound_effect\\回復(鬼變人).mp3"
+  },
+  "fbdc2773-4345-4ed1-a9c8-ef00bec3fd55": {
+    "asset": 1655619832000,
+    "meta": 1664828242002,
+    "relativePath": "audio\\sound_effect\\鬼笑(人變鬼).mp3"
+  },
+  "5c69e6d4-94aa-48cd-98b7-6516090dd038": {
+    "asset": 1655619832000,
+    "meta": 1664828241960,
+    "relativePath": "audio\\sound_effect\\傳送帶音效.mp3"
+  },
+  "009133ef-e95a-468a-87ff-473aa0d78feb": {
+    "asset": 1655619832000,
+    "meta": 1664828241962,
+    "relativePath": "audio\\sound_effect\\傳送帶音效(有點長).mp3"
+  },
+  "d0a397a9-6534-46fa-9ea0-a604410a79b3": {
+    "asset": 1655619832000,
+    "meta": 1664828242023,
+    "relativePath": "audio\\sound_effect\\開門聲.wav"
+  },
+  "91e9b465-c603-4c29-afaf-91a024b8286f": {
+    "asset": 1655619832000,
+    "meta": 1664828242026,
+    "relativePath": "audio\\sound_effect\\自動門關門.wav"
+  },
+  "f99c1d6d-fefa-4797-8d00-8439381fd9a4": {
+    "asset": 1655619832000,
+    "meta": 1664828240268,
+    "relativePath": "Prefab\\becomeGhost.prefab"
+  },
+  "b9ac74a7-8f03-4875-96bc-cb0db81d44a6": {
+    "asset": 1655634646000,
+    "meta": 1664828241188,
+    "relativePath": "Atlas\\Picture\\Name1.png"
+  },
+  "14cc324a-6460-4cb1-a9b9-209e254859eb": {
+    "asset": 1655634878000,
+    "meta": 1664828241198,
+    "relativePath": "Atlas\\Picture\\Name4.png"
+  },
+  "7f608914-7fd9-4cb1-9fe9-96494c54110f": {
+    "asset": 1655634878000,
+    "meta": 1664828241193,
+    "relativePath": "Atlas\\Picture\\Name2.png"
+  },
+  "3e4c0a01-087f-4d98-955e-293c0948074c": {
+    "asset": 1655634878000,
+    "meta": 1664828241197,
+    "relativePath": "Atlas\\Picture\\Name3.png"
+  },
+  "6f3fc07b-3202-459c-aa3e-b5c6756b0309": {
+    "asset": 1655638118000,
+    "meta": 1664828241171,
+    "relativePath": "Atlas\\Picture\\choosing ghost....png"
+  },
+  "ce51dc99-ef2e-4c65-b067-fbf285a79055": {
+    "asset": 1655645908000,
+    "meta": 1664828242233,
+    "relativePath": "Script\\Game2Object\\PlayerGhost.ts"
+  },
+  "fa259b6f-0241-4b36-bf45-8a99369bc3aa": {
+    "asset": 1664828159107,
+    "meta": 1664828240139,
+    "relativePath": "audio\\Mario"
+  },
+  "ee01b74b-f064-4b64-a30a-be9e3f8cdf20": {
+    "asset": 1655698702000,
+    "meta": 1664828241947,
+    "relativePath": "audio\\sound_effect\\tick.wav"
+  },
+  "c779d9fe-c344-46fa-9441-b7050d70078b": {
+    "asset": 1655698702000,
+    "meta": 1664828241939,
+    "relativePath": "audio\\sound_effect\\flagreturn.wav"
+  },
+  "aeaae0d7-2b35-4804-a4b1-64678dadd3d3": {
+    "asset": 1655700020000,
+    "meta": 1664828241777,
+    "relativePath": "audio\\BGM\\偷金音樂.mp3"
+  },
+  "1d113b30-4e80-46f1-b5c1-bd013bbf57fc": {
+    "asset": 1655701684000,
+    "meta": 1664828241949,
+    "relativePath": "audio\\sound_effect\\round_end.wav"
+  },
+  "e732ec8a-afb3-4626-abdd-2c81c6698adf": {
+    "asset": 1655701684000,
+    "meta": 1664828241954,
+    "relativePath": "audio\\sound_effect\\Won!.wav"
+  },
+  "4d7c6ff9-a425-4818-ba79-c65d3917b37c": {
+    "asset": 1655709870000,
+    "meta": 1664828240526,
+    "relativePath": "Script\\InteractWall.ts"
+  },
+  "93a4eb10-ffec-4d35-bda3-726f657f2801": {
+    "asset": 1655712144000,
+    "meta": 1664828242271,
+    "relativePath": "Script\\Game4Object\\coinManager.ts"
+  },
+  "0c43af7e-4f5e-4593-9d1e-5fa6a02f8ce0": {
+    "asset": 1655715056000,
+    "meta": 1664828242450,
+    "relativePath": "Script\\Game4Object\\PlayerCoin.ts"
+  },
+  "ff98b0b5-7a97-4611-bb05-fa4f0ecae602": {
+    "asset": 1655716970000,
+    "meta": 1664828242350,
+    "relativePath": "Script\\Game4Object\\GameManagerCoin.ts"
+  },
+  "da61875e-568a-48f3-80b1-b22473d7a5dc": {
+    "asset": 1655716986000,
+    "meta": 1664828242887,
+    "relativePath": "Script\\GameManager\\GameManagerS1.ts"
+  },
+  "6c531e60-cc34-4781-bf82-b89afad6d5bc": {
+    "asset": 1655717016000,
+    "meta": 1664828242944,
+    "relativePath": "Script\\GameManager\\GameManagerS2.ts"
+  },
+  "8b223056-cde0-4f87-a069-807d79dece5e": {
+    "asset": 1655726388000,
+    "meta": 1664828242665,
+    "relativePath": "Script\\Game5Object\\panel_info.ts"
+  },
+  "9e68a808-902b-4bc8-a19a-89902d7960fb": {
+    "asset": 1655729492000,
+    "meta": 1664828242514,
+    "relativePath": "Script\\Game5Object\\battle_field.ts"
+  },
+  "8a5cc4b4-8064-4117-994b-2eef81db297a": {
+    "asset": 1655746532000,
+    "meta": 1664828240320,
+    "relativePath": "Scene\\GameEnd.fire"
+  },
+  "1566c731-4249-4479-ad94-95cd339f7747": {
+    "asset": 1664828162478,
+    "meta": 1664828240479,
+    "relativePath": "Script\\GameEnd"
+  },
+  "a1318a12-1e5c-4594-804c-638d84187403": {
+    "asset": 1655732270000,
+    "meta": 1664828240677,
+    "relativePath": "Script\\log.ts"
+  },
+  "9754f458-a77b-4daa-b4f5-dbab313e4b3b": {
+    "asset": 1655733476000,
+    "meta": 1664828241152,
+    "relativePath": "Atlas\\Login\\Message.png"
+  },
+  "e59eeda9-019c-41b1-9097-ef3170b731ba": {
+    "asset": 1655737814000,
+    "meta": 1664828240472,
+    "relativePath": "Script\\computerRule.ts"
+  },
+  "d1d326a9-8349-4d7e-a6db-3195e696a2fd": {
+    "asset": 1655739236000,
+    "meta": 1664828240369,
+    "relativePath": "Script\\CameraManager.ts"
+  },
+  "ed3c42cc-7932-4fce-8b08-d9d278a15a74": {
+    "asset": 1655741542000,
+    "meta": 1664828243021,
+    "relativePath": "Script\\GameManager\\GameManagerS5.ts"
+  },
+  "107c0f30-de1e-46bd-8b30-0184f203d649": {
+    "asset": 1655742340000,
+    "meta": 1664828241274,
+    "relativePath": "Atlas\\Picture\\相框.png"
+  },
+  "f4001b1a-38c2-4826-87f7-90d81515c360": {
+    "asset": 1664828156490,
+    "meta": 1664828241175,
+    "relativePath": "Atlas\\Picture\\結算畫面稱號"
+  },
+  "17e8bb7b-ae84-480c-96e6-c625e9160623": {
+    "asset": 1655743268000,
+    "meta": 1664828243389,
+    "relativePath": "Atlas\\Picture\\結算畫面稱號\\叫我掏金王.png"
+  },
+  "6b1a760b-4e95-4f0e-9dba-3ac3cfefc6ef": {
+    "asset": 1655743268000,
+    "meta": 1664828243401,
+    "relativePath": "Atlas\\Picture\\結算畫面稱號\\我是大地主.png"
+  },
+  "f4af62e3-a342-4585-bbc0-c0936e038455": {
+    "asset": 1655743268000,
+    "meta": 1664828243392,
+    "relativePath": "Atlas\\Picture\\結算畫面稱號\\好鬼不抓人.png"
+  },
+  "b3305cb7-5529-48e9-8d8d-9e75c2651428": {
+    "asset": 1655743268000,
+    "meta": 1664828243404,
+    "relativePath": "Atlas\\Picture\\結算畫面稱號\\真。決勝賭豪.png"
+  },
+  "1b27b383-9bda-4d80-a1f9-b9ab586eb397": {
+    "asset": 1655745028000,
+    "meta": 1664828240472,
+    "relativePath": "Script\\firebase.js"
+  },
+  "6097ce99-351c-432a-9ee5-e5dc9a14a993": {
+    "asset": 1655745706000,
+    "meta": 1664828241174,
+    "relativePath": "Atlas\\Picture\\FireBG.png"
+  },
+  "80786072-1816-48b4-8f27-6b9d587ccc18": {
+    "asset": 1655746066000,
+    "meta": 1664828246182,
+    "relativePath": "maps\\mapEnd.tmx"
+  },
+  "f429aa02-fb65-426a-8732-b0356b9115e2": {
+    "asset": 1655748032000,
+    "meta": 1664828242824,
+    "relativePath": "Script\\GameEnd\\GameEndManager.ts"
+  },
+  "56e8735a-f8fc-4fac-b4d7-528d33b18d30": {
+    "asset": 1655748772000,
+    "meta": 1664828240593,
+    "relativePath": "Script\\LobbyManager.ts"
+  },
+  "dcb0c94e-630e-4c3e-b4fe-30c383b2f98a": {
+    "asset": 1655749720000,
+    "meta": 1664828242620,
+    "relativePath": "Script\\Game5Object\\Mine_info_choice.ts"
+  },
+  "d2129638-d953-45ac-bca1-941e0b649fe8": {
+    "asset": 1655751266000,
+    "meta": 1664828240735,
+    "relativePath": "Script\\Player.ts"
+  }
+}

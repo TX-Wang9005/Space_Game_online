@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SignIn_hover",
+    "texture": "4b0310e8-2a5a-442f-83e1-89b34825ac5e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      106,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      106,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

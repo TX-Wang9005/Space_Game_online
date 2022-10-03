@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Coin1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "MonedaD_0": {
+      "__uuid__": "a61426f5-94d5-4d26-b213-fb49db545c3d"
+    },
+    "MonedaD_1": {
+      "__uuid__": "5f47705d-ff2b-4893-af07-0aca617f0c4a"
+    },
+    "MonedaD_2": {
+      "__uuid__": "8fcd8a01-0ef6-4bd5-a458-3e7a00199446"
+    },
+    "MonedaD_3": {
+      "__uuid__": "41d9774b-a102-4aa1-b9f7-38282b6caba0"
+    },
+    "MonedaD_4": {
+      "__uuid__": "19f12017-7796-4746-b13c-42583e52f1fb"
+    }
+  }
+}

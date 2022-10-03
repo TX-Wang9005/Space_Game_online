@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BtnBack_hover",
+    "texture": "4de15857-572e-4f85-8af0-572050d65d72",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      225,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      225,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

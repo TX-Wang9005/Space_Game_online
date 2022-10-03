@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "AirShaft",
+    "texture": "c2dc58b7-8a5b-4f37-839b-8bfdfd508027",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      618,
+      276
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      618,
+      276
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

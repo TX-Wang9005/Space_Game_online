@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "叫我掏金王",
+    "texture": "17e8bb7b-ae84-480c-96e6-c625e9160623",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      471,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      471,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

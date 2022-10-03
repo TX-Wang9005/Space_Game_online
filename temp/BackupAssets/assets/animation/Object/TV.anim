@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "TV",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.35,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "951f8190-5b1f-4a3a-b4b4-086868bd3c74"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "f1ea8d44-6ed9-46e0-adec-30157b2d6ac0"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "38fdc655-7b83-41d9-bde6-1e5fb0b7aab5"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "b006dd40-0bce-435f-bf40-6fad5dbd69ee"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "951f8190-5b1f-4a3a-b4b4-086868bd3c74"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HorizontalLaser (2)",
+    "texture": "aa2a25e6-5ce5-4b4e-a27f-30a5961864ce",
+    "atlas": "",
+    "rect": [
+      0,
+      114,
+      256,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

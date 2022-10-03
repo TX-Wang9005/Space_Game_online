@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "PlayerIdle.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Idle1": {
+      "__uuid__": "18bc83dd-2f50-42ca-9bad-6abc9a4b9948"
+    },
+    "Idle10": {
+      "__uuid__": "89cd43ae-cc93-4a5f-af99-4bf1be6f86db"
+    },
+    "Idle2": {
+      "__uuid__": "70b2f2b1-8682-4e5f-8a34-79aaeed3b5fe"
+    },
+    "Idle3": {
+      "__uuid__": "aca12c97-1b2b-470a-aa09-dd2a58a31f84"
+    },
+    "Idle4": {
+      "__uuid__": "b478b279-2d73-4938-9ce1-f84f3bfd570f"
+    },
+    "Idle5": {
+      "__uuid__": "2710ac36-0f7b-4907-af14-7356f24e784f"
+    },
+    "Idle6": {
+      "__uuid__": "0f8a0a69-9113-4efc-b0a1-cfdff94f5a15"
+    },
+    "Idle7": {
+      "__uuid__": "ab4bd74c-0b3e-4de3-81b3-b97ce95e8bff"
+    },
+    "Idle8": {
+      "__uuid__": "d7d9e78c-acc1-4779-9ae0-6c829f9ed06b"
+    },
+    "Idle9": {
+      "__uuid__": "6895107f-47a0-4b0e-96a9-5966a9f00c4a"
+    }
+  }
+}

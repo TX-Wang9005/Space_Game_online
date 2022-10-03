@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pxiel Art UI borders",
+    "texture": "143cb3fd-5b34-4488-845c-bff9631cb6c1",
+    "atlas": "",
+    "rect": [
+      10,
+      10,
+      88,
+      88
+    ],
+    "offset": [
+      -2,
+      2.5
+    ],
+    "originalSize": [
+      112,
+      113
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
